@@ -1,803 +1,888 @@
-,created_at,user_name,screen_name,description,user_location,text,language,hashtags,media_url,source,coordinates,place,time_zone
-0,2022-03-07 17:01:49+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Richmond sails from Portsmouth to join exercise #ColdResponse22 this afternoon 
+created_at,user_name,description,user_location,text,language,hashtags,media_url,place
+2022-03-28 17:43:58+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_pembroke outbound on the Clyde today.
 
-Via @scottyc298 https://t.co/oCLAoIRi4Z",en,['ColdResponse22'],['https://pbs.twimg.com/media/FNQx05-XsAMV3B0.jpg'],TweetDeck,,,
-1,2022-03-07 09:27:13+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER outbound from Devonport this morning.
+VIa @SheilaLWeir https://t.co/jtJevvDMNP",en,,['https://pbs.twimg.com/media/FO9ExbvXEAQtxTk.jpg'],
+2022-03-28 16:12:13+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest news commentary:
 
-Via: @Rockhoppas https://t.co/6UPtpzLt6t",en,,['https://pbs.twimg.com/media/FNPJzaHXEAYUzCU.jpg'],TweetDeck,,,
-2,2022-03-07 08:16:26+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸USS Roosevelt inbound to Devonport this morning.
+Assessing Russia’s first major naval loss of the war in Ukraine
 
-via @AllanWarships https://t.co/y31K0baPZK",en,,['https://pbs.twimg.com/media/FNO5l3zX0AMS5up.jpg'],TweetDeck,,,
-3,2022-03-06 15:09:07+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Stunning view of @hmssevern outbound on the Firth of Clyde in the sunshine today.
+https://t.co/YUDYbc9lz1 https://t.co/BR4dHMORpg",en,,['https://pbs.twimg.com/media/FO8t2R3XsAgiBiQ.jpg'],
+2022-03-28 09:28:09+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ sails from Liverpool this morning 
 
-Via @SheilaLWeir https://t.co/XdASp4AZeQ",en,,['https://pbs.twimg.com/media/FNLObCbXoAQtW0P.jpg'],TweetDeck,,,
-4,2022-03-06 14:13:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_argyll leaving Liverpool today.
+Via @Streetgang42 https://t.co/QEiUr5DAp2",en,,['https://pbs.twimg.com/media/FO7TZ9QXEAULrqX.jpg'],
+2022-03-28 09:25:48+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_tyne outbound from Devonport for more @FOST serials this morning.
 
-Via @CruiseLpool https://t.co/dqqGBpxmLP",en,,['https://pbs.twimg.com/media/FNLBwhVWUAAaPXQ.jpg'],TweetDeck,,,
-5,2022-03-06 08:34:02+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmsdiamond arrived in Augusta, 🇮🇹Sicily yesterday ahead of joining NATO operations in the eastern Mediterranean https://t.co/9fw0dVUwbv",en,,['https://pbs.twimg.com/media/FNJz9-NWYAMgfey.jpg'],TweetDeck,,,
-6,2022-03-05 19:44:03+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"From Sea Wolf to Sea Ceptor – the Royal Navy’s defensive shield
+Via @defenceimagesuk https://t.co/bhARh3mZ0l",en,,['https://pbs.twimg.com/media/FO7S3k7XEAgxfmj.jpg'],
+2022-03-28 09:09:57+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"P2000s @HMS_Smiter @HMSExplorer @HMSArcher sail from Devonport this morning
 
-https://t.co/as1NGKG6RF https://t.co/zhxBQ1FWEt",en,,['https://pbs.twimg.com/media/FNHDy9RXsAEARJ8.jpg'],TweetDeck,,,
-7,2022-03-05 19:36:01+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFACardiganBay and @RFATideforce alongside in Portland today
+Via @defenceimagesuk https://t.co/9eYPUwfOU2",en,,['https://pbs.twimg.com/media/FO7PItPXwAApe1W.jpg'],
+2022-03-28 09:06:58+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Westminster outbound from Portsmouth this morning.
 
-Via @AmzJS13 https://t.co/1aA8uApxpB",en,,['https://pbs.twimg.com/media/FNHB9BgXsAE84FY.jpg'],TweetDeck,,,
-8,2022-03-05 11:33:24+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class sbmarine inbound on the Clyde this morning.
+Via @georgeemmett8 https://t.co/ryf5aNWjKQ",en,,['https://pbs.twimg.com/media/FO7OimZXIAMXNTl.jpg'],
+2022-03-27 17:13:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,Impressive drone footage by @stratusimagery of @HMSQNLZ arriving in Liverpool this week https://t.co/zEWrSNOeTv,en,,['https://pbs.twimg.com/ext_tw_video_thumb/1508129919322177536/pu/img/GNIeALNRtJS5HFE4.jpg'],
+2022-03-27 16:33:27+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSScottRN sails from Devonport this afternoon - heading for maintenance period in Falmouth.
 
-Via @SheilaLWeir https://t.co/IiBydX9Nj9",en,,['https://pbs.twimg.com/media/FNFTdR8WUAgSU1V.jpg'],TweetDeck,,,
-9,2022-03-05 10:50:59+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_argyll alongside at Liverpool Cruise Treminal this weekend @CruiseLpool 
+Via @defenceimagesuk https://t.co/ebQaeXK8a1",en,,['https://pbs.twimg.com/media/FO3rHONWQA8pEep.jpg'],
+2022-03-27 13:21:07+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇫🇷French Fishery Protection OPV FS Pluvier sailed from Portsmouth this morning.
 
-Via @GogleddIwerddon https://t.co/nOoRuIt8F7",en,,['https://pbs.twimg.com/media/FNFJzGiXIAAvCJm.jpg'],TweetDeck,,,
-10,2022-03-05 09:12:44+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSTrent seaboat operations with 🇮🇹ITS Carlo Margottini  while serving with #SNMG2 in the Mediterranean. https://t.co/iD8OejvIFq,en,['SNMG2'],['https://pbs.twimg.com/ext_tw_video_thumb/1500036274815701001/pu/img/ZWHnwKW3kFXb51mo.jpg'],TweetDeck,,,
-11,2022-03-04 20:33:25+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSPenzance @RN_engineers Photos @ThalesUK https://t.co/Q91k0TozF4,pt,,['https://pbs.twimg.com/media/FNCFcqGWUAU1DVM.jpg'],TweetDeck,,,
-12,2022-03-04 16:46:35+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Getting ready
+Via @PortsmouthProud https://t.co/fiDvyquNYn",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1508071316909395976/pu/img/Smny3JwewSt0_9Ll.jpg'],
+2022-03-27 08:07:36+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇳🇱HNLMS Snellius @kon_marine alongside at Northumbrian Quay, Port of Tyne yesterday. 
+
+Via @NormTyne https://t.co/jDcgXxOEFG",en,,['https://pbs.twimg.com/media/FO13YO3X0Aoi3IP.jpg'],
+2022-03-27 07:44:22+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern and @HMSDuncan alongside in Portsmouth yesterday.
+
+Via @RNPics_ https://t.co/UuDnoNiy3g",en,,['https://pbs.twimg.com/media/FO1yDBfXEAMOCS1.jpg'],
+2022-03-27 07:40:21+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"MV Hartland Point inbound to Devonport this morning.
+
+https://t.co/JX21scEpEY
+
+Via @defenceimagesuk https://t.co/PLTmemysaP",en,,['https://pbs.twimg.com/media/FO1wzvFXEAABGHe.jpg'],
+2022-03-27 06:52:45+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @hms_tamar: Happy Mother's Day to the Mums of #TeamTAMAR from the far side of the World! 🦁⚓️🇬🇧 https://t.co/Uk58RyVVb7,en,['TeamTAMAR'],['https://pbs.twimg.com/media/FO1kA_QXoAAI2YL.jpg'],
+2022-03-26 20:58:51+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"“impressive navel kit” 🙂
+
+https://t.co/cmuMDFaTwb https://t.co/O0bG00bSyg",en,,['https://pbs.twimg.com/media/FOzdo2mXIAATHjx.jpg'],
+2022-03-26 15:32:49+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAWaveKnight tucked up in 3 Basin, Portsmouth - her home for the foreseeable future.
+
+Via @RNPics_ https://t.co/0w8TvLWSNe",en,,['https://pbs.twimg.com/media/FOyTr-2X0AAnHDC.jpg'],
+2022-03-26 15:15:29+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,Wildcat lands on @HMSDefender during exercise #ColdResponse22 https://t.co/3aTYA0UEVZ,en,['ColdResponse22'],['https://pbs.twimg.com/ext_tw_video_thumb/1507737593282281478/pu/img/1ZbgbkzNSl7K3QBd.jpg'],
+2022-03-26 09:37:23+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo outbound from Devonport this morning.
+
+VIa @defenceimagesuk https://t.co/JzUB8snhMn",en,,['https://pbs.twimg.com/media/FOxCLtKXMAAS7NA.jpg'],
+2022-03-26 09:12:06+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSSomerset - back to sea this week https://t.co/VFwgyniRiT,en,,['https://pbs.twimg.com/ext_tw_video_thumb/1507645606734573570/pu/img/Fwfktv4gNCRPnAQl.jpg'],
+2022-03-26 08:25:17+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_tyne outbound from Devonport this morning.
+
+Via @defenceimagesuk https://t.co/N1JKW1sGXz",en,,['https://pbs.twimg.com/media/FOwxqnoXMAM728o.jpg'],
+2022-03-25 16:10:02+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSPWLS replenishment at sea with @RFATidesurge during operations off 🇳🇴Norwegian coast #ColdResponse22 #NATO https://t.co/tZUUbhvM2L,en,"['ColdResponse22', 'NATO']",['https://pbs.twimg.com/media/FOtSQR1XIB4FkV8.jpg'],
+2022-03-25 12:27:08+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@MarineNationale @PortsmouthProud @georgeemmett8 Followed by OPV 🇫🇷FS Pluvier 
+
+Via @georgeemmett8 https://t.co/ArETzsRaMZ",en,,['https://pbs.twimg.com/media/FOsflAzXMAcNrV6.jpg'],
+2022-03-25 12:26:16+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@MarineNationale @PortsmouthProud Via @georgeemmett8 https://t.co/rV1Q8rehiC,und,,['https://pbs.twimg.com/media/FOse9UdWUAMxvxW.jpg'],
+2022-03-25 12:18:31+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@MarineNationale 🇫🇷 training ships FS Guepard and FS Lion arrived in Portsmouth today.
+
+Via @PortsmouthProud https://t.co/zF7Ff9DqVV",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1507330771476008965/pu/img/7Q62mjXko9bjSozv.jpg'],
+2022-03-25 09:30:32+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,Sea boat launched from @RFAArgus during man overboard exercise (MOBEX) https://t.co/M2DUEpD5i1,en,,['https://pbs.twimg.com/ext_tw_video_thumb/1507288289375567873/pu/img/Oi-sb7ak2Pz8njqk.jpg'],
+2022-03-25 09:01:44+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Great images from @hms_tamar on exercise #BersamaShield2022 with #FPDA partners  
+🇸🇬🇦🇺🇲🇾🇳🇿🇬🇧 https://t.co/JdvLRYfHbj",en,"['BersamaShield2022', 'FPDA']",['https://pbs.twimg.com/media/FOrwbYqXwDAJmFq.jpg'],
+2022-03-24 18:53:21+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland arriving at 🇺🇸Naval Station Mayport, Florida today.
+
+H/T @WarshipCam https://t.co/EfVw2LnAwF",en,,['https://pbs.twimg.com/media/FOouTaOXMAUlDhc.jpg'],
+2022-03-24 16:44:52+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSQNLZ @CruiseLpool @InceptionTimeRB Via @ActivateDgtl https://t.co/WFyAuNX84H,und,,['https://pbs.twimg.com/media/FOoQ2duXwAY6uB_.jpg'],
+2022-03-24 15:42:56+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ arrived alongside at @CruiseLpool this afternoon
+
+Via: @InceptionTimeRB https://t.co/iEzm88sO99",en,,['https://pbs.twimg.com/media/FOoC0PzVsAU_bO4.jpg'],
+2022-03-24 14:11:04+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Twitter account for the new National Shipbuilding Office (NSO) @UK_NSO
+
+Led by R/Adm Rex Cox 
+
+H/T @navalhistorian https://t.co/p1AuM5xHXz",en,,['https://pbs.twimg.com/media/FOntpSPWQAUcEA6.jpg'],
+2022-03-24 12:07:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSNORT conducts a RAS with @RFATidesurge during exercise #ColdResponse22 https://t.co/c7jA4jbi4p,en,['ColdResponse22'],['https://pbs.twimg.com/media/FOnRaD-WYAgCvad.jpg'],
+2022-03-24 12:02:58+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"RT @HMS_Richmond: @HMS_Richmond has arrived in the Arctic Circle to join #ColdResponse22.
+
+#WeAreNATO https://t.co/UB0reJthlp",en,"['ColdResponse22', 'WeAreNATO']",['https://pbs.twimg.com/media/FOnO_ZaWUAouKqg.jpg'],
+2022-03-24 10:32:28+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@HMS_Echo @Rockhoppas Followed by MV Hurst Point, also heading out from Devonport this morning.
+
+Via @Rockhoppas https://t.co/zePoqFccGp",en,,['https://pbs.twimg.com/media/FOm7vomWYAUFHB9.jpg'],
+2022-03-24 10:17:27+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo outbound from Devonport this morning
+
+Via @Rockhoppas https://t.co/NTcRKMtqYP",en,,['https://pbs.twimg.com/media/FOm3hncWUAIiq1l.jpg'],
+2022-03-24 07:52:38+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Fully de-stored @RFAWaveKnight moved into 3 Basin in Portsmouth yesterday for long-term lay up.
+
+Via @AWenham1 https://t.co/ntteMQJ1ZC",en,,['https://pbs.twimg.com/media/FOmXIImXoAMigPP.jpg'],
+2022-03-23 17:01:01+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇩🇪FGS Schleswig-Holstein inbound to sunny Devonport this afternoon
+
+Via @TomLeachPhotos @Rockhoppas https://t.co/v8QM2NDfaV",en,,['https://pbs.twimg.com/media/FOjLDkCWQAU5pfZ.jpg'],
+2022-03-23 16:53:47+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSEnterprise alongside in sunny Hartlepool today.
+
+Photo: Lee Bullivant https://t.co/rk07KY8h3E",en,,['https://pbs.twimg.com/media/FOjJXVAXoAYen8z.jpg'],
+2022-03-23 15:05:04+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSQNLZ @RFATiderace https://t.co/VbNwzvbhmg,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1506648172743036929/pu/img/SDO6jYx5aWRo0Ynf.jpg'],
+2022-03-23 13:00:04+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@hms_tamar conducts PASSEX with Royal Brunei Navy OPV KDB Daruleshsan off 🇧🇳Brunei last week https://t.co/W4QHBMXXjT,en,,['https://pbs.twimg.com/media/FOiTm-1XsAMh0Mz.jpg'],
+2022-03-23 07:56:37+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSQNLZ conducts her first replenishment at sea of this year with @RFATiderace https://t.co/fVzw2m2Fhq,en,,['https://pbs.twimg.com/ext_tw_video_thumb/1506540350944518147/pu/img/YkwBATU56_HktfZR.jpg'],
+2022-03-22 18:39:56+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest article:
+
+The National Shipbuilding Strategy and the future of the Royal Navy
+
+https://t.co/B0f98vSl37 https://t.co/z3Wj2ycPUT",en,,['https://pbs.twimg.com/media/FOeYJlpXMAcDcHk.jpg'],
+2022-03-22 15:53:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Westminster at anchor in Plymouth Sound this afternoon.
+
+Via @Rockhoppas https://t.co/01IhtmFZvT",en,,['https://pbs.twimg.com/media/FOdyHDkXEAItyGz.jpg'],
+2022-03-22 14:12:57+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSEnterprise alongside in Hartlepool this week.
+
+Photo: Lee Bullivant https://t.co/Y4gncZ6rPW",en,,['https://pbs.twimg.com/media/FOdbCnYXsBIUDxw.jpg'],
+2022-03-22 08:05:17+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFAArgus Sailed from Devonport last night https://t.co/plzADFUFQG,en,,['https://pbs.twimg.com/media/FOcG4e6XsAQGNi4.jpg'],
+2022-03-21 19:19:50+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo arrives in Devonport this afternoon
+
+Via: Piran Smith https://t.co/vQBD1X0sL1",en,,['https://pbs.twimg.com/media/FOZXs5EXsAAppwA.jpg'],
+2022-03-21 19:15:33+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"MV Hurst Point arrives in Devonport this afternoon.
+
+Via: Piran Smith https://t.co/2H4QWYn3tJ",en,,['https://pbs.twimg.com/media/FOZWs8-XsAQ_n6N.jpg'],
+2022-03-21 17:26:32+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmsdiamond has sailed from 🇬🇷Piraeus after weekend visit.
+
+#SNMG2 #NATO https://t.co/MpTJwaEzOT",en,"['SNMG2', 'NATO']",['https://pbs.twimg.com/media/FOY9mvSXEBEguc-.jpg'],
+2022-03-21 17:21:37+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTyne inbound to Devonport this afternoon.
+
+@RFACardiganBay at buoy in Plymouth Sound 
+
+Via @Rockhoppas https://t.co/ozieDk90oq",en,,['https://pbs.twimg.com/media/FOY8o1SWYAMgfhT.jpg'],
+2022-03-21 14:27:19+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern outbound from Portsmouth today.
+
+Via @georgeemmett8 https://t.co/6w6b8dYXe5",en,,['https://pbs.twimg.com/media/FOYUuaOWQAEyh3z.jpg'],
+2022-03-21 14:21:57+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇫🇷French Gendarmerie patrol boat Athos heading down the Thames after visit to London. 
+
+Via  @jason_photos https://t.co/mvb4lCz0f8",en,,['https://pbs.twimg.com/media/FOYTdOuXEAALa2p.jpg'],
+2022-03-21 12:02:36+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @HMS_Richmond: @HMS_Richmond conducts a short logistical reset alongside Stavanger 🇳🇴. https://t.co/hwhb3HxoND,en,,['https://pbs.twimg.com/media/FOXyjuyXMAIHseI.jpg'],
+2022-03-21 11:57:16+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Westminster outbound from Portsmouth again this morning.
+
+Via @PortsmouthProud https://t.co/M5lkGt9AEs",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1505876010851610625/pu/img/_HGlU3Eo9Gki36l2.jpg'],
+2022-03-21 10:04:24+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER outbound from Devonport this morning
+
+Via @Rockhoppas https://t.co/5oZ6ZKFRXJ",en,,['https://pbs.twimg.com/media/FOXYakdXsAQWm4Q.jpg'],
+2022-03-20 16:46:46+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_tyne at anchor in Cawsand Bay this weekend.
+
+via @TomLeachPhotos https://t.co/GqaLVwdqLo",en,,['https://pbs.twimg.com/media/FOTq20SWQAIL6lf.jpg'],
+2022-03-20 16:43:53+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATiderace at anchor off St Peter Port, Guernsey this weekend.
+
+Via @karlwilkins https://t.co/g1jJFPPFBQ",en,,['https://pbs.twimg.com/media/FOTqKPEWQAAf_tu.jpg'],
+2022-03-20 12:50:46+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Richmond passes under the Great Belt Bridge, 🇩🇰Denmark https://t.co/XE5HtsPTvq",en,,['https://pbs.twimg.com/media/FOS057aXwAIHdGQ.jpg'],
+2022-03-20 08:12:29+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon major refit begins which will include new engines (PIP).
+
+Back at sea in around 3 years
+
+Via @AWenham1 https://t.co/pk2HAxe89y",en,,['https://pbs.twimg.com/media/FOR1PGfXMAI83m_.jpg'],
+2022-03-19 20:54:10+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmsdiamond alongside in Piraeus 🇬🇷
+
+Via @noviblokovi https://t.co/hr8bw4Sw3G",in,,['https://pbs.twimg.com/media/FOPaG-xXwAUiTsA.jpg'],
+2022-03-19 10:30:46+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@HmsShoreham @SheilaLWeir .@HmsShoreham alongside in Bangor, Northern Ireland this morning 
+
+Via @ethompson_x https://t.co/C0eDaoIwbU",en,,['https://pbs.twimg.com/media/FONLX2RXsAMbteF.jpg'],
+2022-03-19 10:28:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HmsShoreham on the Clyde Yesterday
+
+Via @SheilaLWeir https://t.co/PCCbXsKFCh",en,,['https://pbs.twimg.com/media/FONK9QQXwAIPkA7.jpg'],
+2022-03-19 09:41:06+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @RN_engineers: RN ‘Gun-Busters’ working hard to replace a Kevlar Mantle Bag on the Barrel of @hms_kent 4.5 gun https://t.co/7eXROprdU8,en,,['https://pbs.twimg.com/media/FOM_GVYWYAAMbie.jpg'],
+2022-03-19 07:39:32+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Further flight testing of Wildcat carrying 20 Martlet missiles -seen over Somerset yesterday. 
+
+Via @GbhvfRon https://t.co/FziDV8479g",en,,['https://pbs.twimg.com/media/FOMkMLkXEAEF92G.jpg'],
+2022-03-18 16:47:07+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@HMSQNLZ @wolfie250 Outbound on Loch Long
+
+Via @SheilaLWeir https://t.co/rr6SprYnsO",en,,['https://pbs.twimg.com/media/FOJX-nSX0AU7gm3.jpg'],
+2022-03-18 15:00:04+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇧🇪 BNS ‘Leopold I’ arrives in Portsmouth this afternoon.
+
+Via @RNPics_ @scottyc298 @AWenham1 https://t.co/dWWcG2FarN",en,,['https://pbs.twimg.com/media/FOI9-VWXIAE4M5_.jpg'],
+2022-03-18 14:36:26+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ completed munitions loading and departing from Glen Mallan this afternoon.
+
+Via @wolfie250 https://t.co/30KzgHCbei",en,,['https://pbs.twimg.com/media/FOI57-XXEAQKl1o.jpg'],
+2022-03-18 12:32:59+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@kon_marine 🇳🇱HNLMS Tromp arrives in Portsmouth this morning 
+
+Via @scottyc298 @RNPics_ https://t.co/yxDnbNn6J2",en,,['https://pbs.twimg.com/media/FOIdxN7XoAE2_Dv.jpg'],
+2022-03-18 11:33:27+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@HMS_Westminster @PortsmouthProud Via @RNPics_ @scottyc298 https://t.co/XBpcJFegYg,und,,['https://pbs.twimg.com/media/FOIP0QoXMA04HgR.jpg'],
+2022-03-18 11:27:26+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Westminster returns to Portsmouth this morning after brief post-maintenance shakedown.
+
+Via @PortsmouthProud https://t.co/KNbHvUCGa2",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1504781361953058818/pu/img/MLnmdAQEngA4R0Ya.jpg'],
+2022-03-18 08:08:53+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Westminster sailed from Portsmouth yesterday on completion of maintenance period.
+
+Via @AWenham1 https://t.co/9o5a2VP7aP",en,,['https://pbs.twimg.com/media/FOHhWtMWYCIZZqp.jpg'],
+2022-03-18 07:46:35+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_tamar returns to 🇸🇬Singapore this morning after low key visit to 🇧🇳Brunei
+
+Via: StraitsSights https://t.co/7SICcaBwM5",en,,['https://pbs.twimg.com/media/FOHcP8IWYCEYowy.jpg'],
+2022-03-17 17:12:52+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFACardiganBay at buoy in Plymouth Sound sporting new @RUBB_BUILDINGS aircraft hangar.
+
+Seen from @RFAFortVictoria https://t.co/5fRKTigXcu",en,,['https://pbs.twimg.com/media/FOEUMxIXwAQiYkI.jpg'],
+2022-03-17 16:17:37+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Royal Navy Hawk Jets making farewell flypast over Portsmouth this afternoon.
+
+Via @RNPics_ https://t.co/zPMsv4ecTs",en,,['https://pbs.twimg.com/media/FOEHj5fXsAI0xI_.jpg'],
+2022-03-17 12:19:56+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@YeoviltonAirDay 2022 cancelled for ""commercial reasons” https://t.co/EryCMA4aGP",en,,['https://pbs.twimg.com/media/FODROX_XEAc23a-.jpg'],
+2022-03-17 12:17:26+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@DarrenWoodward @HMSQNLZ @nato_news Yes 3 carried inside the port side sponsons https://t.co/H2k9kVkxS6,en,,['https://pbs.twimg.com/media/FODQqKZXIAQJZwK.jpg'],
+2022-03-17 11:41:08+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@HMSQNLZ @nato_news PTB “Swordfish"" https://t.co/OCle9H06Rd",sv,,['https://pbs.twimg.com/media/FODIT-aXsAAgrkw.jpg'],
+2022-03-17 09:52:35+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmsdiamond and warships of the #SNMG2 Task Group in the Eastern Mediterranean. 
+
+🇬🇧🇮🇹🇪🇸🇨🇦🇹🇷🇬🇷 #NATO https://t.co/bSMgEYLvs3",en,"['SNMG2', 'NATO']",['https://pbs.twimg.com/media/FOCvTjhXIAQDfEl.jpg'],
+2022-03-17 07:45:22+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAArgus arrived in Brest, 🇫🇷France yesterday for a short break during Exercise Medical Response https://t.co/cmwNQBIr1o",en,,['https://pbs.twimg.com/media/FOCSUM6WQAABFHL.jpg'],
+2022-03-16 10:56:55+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"MV Eddystone outbound from Devonport this morning.
+
+https://t.co/JX21scEpEY
+
+Via @defenceimagesuk https://t.co/lRV1rNovii",en,,['https://pbs.twimg.com/media/FN90juXXoAQe1HO.jpg'],
+2022-03-16 09:27:21+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇳🇱 @kon_marine HNLMS Tromp inbound to Devonport this morning.
+
+Via @defenceimagesuk https://t.co/Zb1zUyPBoK",en,,['https://pbs.twimg.com/media/FN9f47IXEAQiFs8.jpg'],
+2022-03-16 07:52:08+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ alongside at Glen Mallan last night
+
+Via @nato_news https://t.co/qwYll5u2ya",en,,['https://pbs.twimg.com/media/FN9KT5pXEAIdhkg.jpg'],
+2022-03-16 07:01:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Spey arrives in 🇫🇯Fiji this morning
+
+Via @ukinfiji https://t.co/R0FVraxSxk",en,,['https://pbs.twimg.com/media/FN8-mLzWQAAOHQ_.jpg'],
+2022-03-15 18:59:21+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Richmond and 🇩🇰HDMS Niels Juel during #JEF operations in the Baltic Sea.
+
+Via: @UKinDenmark https://t.co/3NTSxoBjnd",en,['JEF'],['https://pbs.twimg.com/media/FN6ZEXdXoAkkPfO.jpg'],
+2022-03-15 18:49:57+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSScottRN inbound to Devonport at high water this afternoon.
+
+Via @RfaNostalgia https://t.co/BrW7jsNAmA",en,,['https://pbs.twimg.com/media/FN6XUnJWUAYx6sz.jpg'],
+2022-03-15 11:42:04+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,NATO Response Force flagship @HMSPWLS leads #ColdResponse22 PHOTEX yesterday https://t.co/9bzKoZgGOi,en,['ColdResponse22'],['https://pbs.twimg.com/media/FN41QSCX0AA943v.jpg'],
+2022-03-15 09:41:52+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@HMSQNLZ See also 
+
+https://t.co/ntznB7rogW https://t.co/TwuvoV304t",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1503667562932060160/pu/img/iu4ESyd4qg92Kurh.jpg'],
+2022-03-15 08:11:14+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Quiz night on the flight deck @HMS_Spey while alongside in 🇹🇴Tonga, South Pacific https://t.co/1DkCFfBKGb",en,,['https://pbs.twimg.com/media/FN4FIlcXIAAUAaT.jpg'],
+2022-03-14 16:38:43+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@hmsdefender escorting @HMSPWLS on exercise #ColdResponse22 https://t.co/ikWaUY8byl,fr,['ColdResponse22'],['https://pbs.twimg.com/media/FN0vqC1WQAAWMU3.jpg'],
+2022-03-14 13:05:46+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"RT @RFATiderace: All dressed up for commonwealth day!
+#CommonwealthDay2022 #royalfleetauxiliary https://t.co/bemTgkqbd2",en,"['CommonwealthDay2022', 'royalfleetauxiliary']",['https://pbs.twimg.com/media/FNz877mXIAEJOv2.jpg'],
+2022-03-14 10:02:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria alongside at Loch Striven yesterday.
+
+Via @anotherpozzi https://t.co/zlogemeXfc",en,,['https://pbs.twimg.com/media/FNzVDPrXwAg_2MG.jpg'],
+2022-03-14 09:50:55+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"HMS Tracker escorting @HMSQNLZ on her way up the Clyde this morning 
+
+Via @SheilaLWeir https://t.co/XUJpNnhlmj",en,,['https://pbs.twimg.com/media/FNzST1CXwAAQ-Ts.jpg'],
+2022-03-13 15:58:53+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland sailing from Naval Station Norfolk, Virginia 🇺🇸today.
+
+Via @AirAssets https://t.co/wLNBWWZLKy",en,,['https://pbs.twimg.com/media/FNvc0tQXoAUtEC3.jpg'],
+2022-03-13 14:15:28+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@820NAS Merlin refuelling on the deck of @HMSPWLS
+
+Carrier escort @HMSDefender visible beyond.
+
+🇳🇴#ColdResponse22 https://t.co/8oQ0aP8axc",en,['ColdResponse22'],['https://pbs.twimg.com/media/FNvFKZCXIAMcUaF.jpg'],
+2022-03-13 14:02:24+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@chodpollard @RFAWaveKnight @AWenham1 rigs removed and partially storerobbed, although paintwork in good condition https://t.co/2RZ5AIe2Sj",en,,['https://pbs.twimg.com/media/FNvCMqlX0AYgzvw.jpg'],
+2022-03-13 10:31:27+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Spey returns to 🇹🇴Tonga to conduct fishery protection patrols.
+
+https://t.co/AhwyGzTGqE https://t.co/8BMmm3Wxde",en,,['https://pbs.twimg.com/media/FNuSBTWXoAE7G_2.jpg'],
+2022-03-13 10:06:01+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSTrent seen from an RAF Typhoon during joint exercises off Cyprus this week https://t.co/gWy3JnM6gt,en,,['https://pbs.twimg.com/media/FNuMMY7XoAMcDnn.jpg'],
+2022-03-13 09:32:49+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Medway arrived at  Kingstown Cruise Ship Terminal, 🇻🇨St. Vincent yesterday
+
+https://t.co/jZ8NOSm2VH https://t.co/Bzj84RBIhy",en,,['https://pbs.twimg.com/media/FNuEoOAXwA0orit.jpg'],
+2022-03-12 14:12:44+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSPWLS conducts Replenishment at Sea with @RFATidesurge on the way to exercise #ColdResponse22 🇳🇴 https://t.co/thju2MVynJ,en,['ColdResponse22'],['https://pbs.twimg.com/media/FNp7DEfXsAAZNm_.jpg'],
+2022-03-12 12:18:20+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_mersey back out on patrol again today.
+
+Via @scottyc298 https://t.co/tchO6RtZPL",en,,['https://pbs.twimg.com/media/FNpg6mgXMAEwRZm.jpg'],
+2022-03-12 09:29:35+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern arrives back in Portsmouth this morning after trip to Scotland
+
+Via @georgeemmett8 https://t.co/zw4AzoLkH1",en,,['https://pbs.twimg.com/media/FNo6SHTXsAAzIlt.jpg'],
+2022-03-12 08:11:40+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMS_Richmond conducts Replenishment at Sea with @RFATidesurge on the way to exercise #ColdResponse22 🇳🇴 https://t.co/oGk033pV0c,en,['ColdResponse22'],['https://pbs.twimg.com/ext_tw_video_thumb/1502557809363329030/pu/img/tdq4VHOXjqgMGKnj.jpg'],
+2022-03-11 18:47:31+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER outbound from Devonport this evening @FOST
+
+Via @Rockhoppas https://t.co/CrYIxAt99C",en,,['https://pbs.twimg.com/media/FNlwZUwXsAUzg-t.jpg'],
+2022-03-11 17:10:22+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAWaveKnight now alongside at Victory Jetty, Portsmouth 
+
+Via @RNPics_ https://t.co/0VhMXOZ1XR",en,,['https://pbs.twimg.com/media/FNlaItQWYAUcbrV.jpg'],
+2022-03-11 17:05:00+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFACardiganBay inbound to Devonport this afternoon.
+
+Via @RfaNostalgia https://t.co/vwum291ikt",en,,['https://pbs.twimg.com/media/FNlY8DhXIAEJ-7u.jpg'],
+2022-03-11 13:28:35+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_tyne outbound on the river Mersey today.
+
+Via @Shipsoftherive1 https://t.co/WBRFg1gvQR",en,,['https://pbs.twimg.com/media/FNknZ-PXoAA_6F9.jpg'],
+2022-03-11 13:09:06+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@RFAWaveKnight @Omgtiggeroni Via @PortsmouthProud https://t.co/uwFRmmhGyY,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1502269951117307913/pu/img/PCBfxnHEOLK5BSVi.jpg'],
+2022-03-11 10:56:21+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAWaveKnight arrives in Portsmouth this morning.
+
+Due be laid up in “low readiness” shortly.
+
+Via  @Omgtiggeroni https://t.co/ulooWRg1l4",en,,['https://pbs.twimg.com/media/FNkDyvcXIAoQIzZ.jpg'],
+2022-03-11 08:07:49+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATidespring in refit @CammellLaird with lifeboats removed for maintenance https://t.co/i0mV1EPVut,en,,['https://pbs.twimg.com/media/FNjd-zLXEAAJBvA.jpg'],
+2022-03-11 07:57:11+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo arrived back alongside in #Gibraltar yesterday
+
+Via @MODGibraltar https://t.co/OJ1D3rMoYf",en,['Gibraltar'],['https://pbs.twimg.com/media/FNjbjurXsAAPEbx.jpg'],
+2022-03-10 14:31:02+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@hmsdiamond has joined the  Standing NATO Maritime Group (SNMG2) task group in the Mediterranean. 🇬🇧🇮🇹🇨🇦🇪🇸🇹🇷🇷🇴🇬🇷 https://t.co/7i0ohlb8fY,en,,['https://pbs.twimg.com/media/FNfsHS9VQAAXyE_.jpg'],
+2022-03-10 10:37:39+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDefender sails from Portsmouth this morning to join exercise #ColdResponse22 🇳🇴
+
+Via @PortsmouthProud https://t.co/JAdBDmCbJz",en,['ColdResponse22'],['https://pbs.twimg.com/ext_tw_video_thumb/1501869807314116608/pu/img/rbYTzmgu9lBSTsCE.jpg'],
+2022-03-10 09:26:27+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent alongside in 🇬🇷Souda Bay, Crete for crew rotation.
+
+🇪🇸Spanish Meteoro-class OPV also alongside. https://t.co/ictNc0vqtW",en,,['https://pbs.twimg.com/media/FNemTZPX0AEhTxs.jpg'],
+2022-03-10 09:22:22+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATideforce alongside in Portland yesterday - seen from @RFAWaveKnight
+
+Via @CaptAliClack https://t.co/fxJQxeUDe6",en,,['https://pbs.twimg.com/media/FNelb4jX0AcAUOs.jpg'],
+2022-03-10 07:51:26+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria currently alongside at Loch Striven Oil Jetty 
+
+Via W. Quinn https://t.co/pPGRHjfj74",en,,['https://pbs.twimg.com/media/FNeQo20XIAMLC5C.jpg'],
+2022-03-09 15:49:23+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ leaving Portsmouth right now.
+
+Via @scottyc298 https://t.co/zbza5wmn7d",en,,['https://pbs.twimg.com/media/FNa0WE-X0AcsHyV.jpg'],
+2022-03-09 14:33:18+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@SNMCMG1 @HMSGrimsby Via @COM_SNMCMG1 https://t.co/3f4WMlWyeL,und,,['https://pbs.twimg.com/media/FNaiv0hXEAE-Cz1.jpg'],
+2022-03-09 09:36:37+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@Endurance_22 Video credit: 
+Falklands Maritime Heritage Trust 
+#Endurance22 https://t.co/JaMERn0Vok",en,['Endurance22'],['https://pbs.twimg.com/ext_tw_video_thumb/1501491966902743043/pu/img/5gKtv8A2I9Zqdqat.jpg'],
+2022-03-09 09:24:47+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern arrives at Fairlie Quay on the Firth of Clyde for a crew rotation yesterday.
+
+Via @RNinScotland https://t.co/apJhNRtYrN",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1501488984442167298/pu/img/q5xOEcaq8BGtECwo.jpg'],
+2022-03-08 18:06:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,#InternationalWomensDay @hmsdiamond https://t.co/tdBdN5K3VC,und,['InternationalWomensDay'],['https://pbs.twimg.com/media/FNWKJsWX0AI4VQd.jpg'],
+2022-03-08 18:05:15+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@hms_magpie arrives on the Tyne for visit to @HMSCalliope https://t.co/TfirzlD4Q4,en,,['https://pbs.twimg.com/media/FNWJ7DgXIAE2Uvc.jpg'],
+2022-03-08 14:11:56+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@hms_albion @RoyalMarines .@RFAMountsBay in support
+
+#ColdResponse22 https://t.co/apLZDX5Y31",en,['ColdResponse22'],['https://pbs.twimg.com/media/FNVUhzUXIAIGNTu.jpg'],
+2022-03-08 13:54:56+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@hms_tyne @CruiseLpool @Streetgang42 Via  @GogleddIwerddon https://t.co/CVesOJe1U4,und,,['https://pbs.twimg.com/media/FNVQqsjXIAEUjPo.jpg'],
+2022-03-08 13:15:01+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_tyne alongside at Liverpool Cruise Terminal today 
+@CruiseLpool
+
+Via @Streetgang42 https://t.co/QdsTcZsyhK",en,,['https://pbs.twimg.com/media/FNVHiJFX0AItjKh.jpg'],
+2022-03-08 11:34:17+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmsdiamond under starry night sky in the Mediterranean as she sails eastwards
+
+Photo @ShaunRoster https://t.co/aWR9dFmexw",en,,['https://pbs.twimg.com/media/FNUwdlrXIAcApNn.jpg'],
+2022-03-07 17:01:49+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Richmond sails from Portsmouth to join exercise #ColdResponse22 this afternoon 
+
+Via @scottyc298 https://t.co/oCLAoIRi4Z",en,['ColdResponse22'],['https://pbs.twimg.com/media/FNQx05-XsAMV3B0.jpg'],
+2022-03-07 09:27:13+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER outbound from Devonport this morning.
+
+Via: @Rockhoppas https://t.co/6UPtpzLt6t",en,,['https://pbs.twimg.com/media/FNPJzaHXEAYUzCU.jpg'],
+2022-03-07 08:16:26+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸USS Roosevelt inbound to Devonport this morning.
+
+via @AllanWarships https://t.co/y31K0baPZK",en,,['https://pbs.twimg.com/media/FNO5l3zX0AMS5up.jpg'],
+2022-03-06 15:09:07+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Stunning view of @hmssevern outbound on the Firth of Clyde in the sunshine today.
+
+Via @SheilaLWeir https://t.co/XdASp4AZeQ",en,,['https://pbs.twimg.com/media/FNLObCbXoAQtW0P.jpg'],
+2022-03-06 14:13:54+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_argyll leaving Liverpool today.
+
+Via @CruiseLpool https://t.co/dqqGBpxmLP",en,,['https://pbs.twimg.com/media/FNLBwhVWUAAaPXQ.jpg'],
+2022-03-06 08:34:02+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmsdiamond arrived in Augusta, 🇮🇹Sicily yesterday ahead of joining NATO operations in the eastern Mediterranean https://t.co/9fw0dVUwbv",en,,['https://pbs.twimg.com/media/FNJz9-NWYAMgfey.jpg'],
+2022-03-05 19:44:03+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"From Sea Wolf to Sea Ceptor – the Royal Navy’s defensive shield
+
+https://t.co/as1NGKG6RF https://t.co/zhxBQ1FWEt",en,,['https://pbs.twimg.com/media/FNHDy9RXsAEARJ8.jpg'],
+2022-03-05 19:36:01+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFACardiganBay and @RFATideforce alongside in Portland today
+
+Via @AmzJS13 https://t.co/1aA8uApxpB",en,,['https://pbs.twimg.com/media/FNHB9BgXsAE84FY.jpg'],
+2022-03-05 11:33:24+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class sbmarine inbound on the Clyde this morning.
+
+Via @SheilaLWeir https://t.co/IiBydX9Nj9",en,,['https://pbs.twimg.com/media/FNFTdR8WUAgSU1V.jpg'],
+2022-03-05 10:50:59+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_argyll alongside at Liverpool Cruise Treminal this weekend @CruiseLpool 
+
+Via @GogleddIwerddon https://t.co/nOoRuIt8F7",en,,['https://pbs.twimg.com/media/FNFJzGiXIAAvCJm.jpg'],
+2022-03-05 09:12:44+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSTrent seaboat operations with 🇮🇹ITS Carlo Margottini  while serving with #SNMG2 in the Mediterranean. https://t.co/iD8OejvIFq,en,['SNMG2'],['https://pbs.twimg.com/ext_tw_video_thumb/1500036274815701001/pu/img/ZWHnwKW3kFXb51mo.jpg'],
+2022-03-04 20:33:25+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSPenzance @RN_engineers Photos @ThalesUK https://t.co/Q91k0TozF4,pt,,['https://pbs.twimg.com/media/FNCFcqGWUAU1DVM.jpg'],
+2022-03-04 16:46:35+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Getting ready
 
 @HMSPWLS and @HMSQNLZ 
 
 @hms_mersey foreground and @HMS_Richmond beyond
 
-Via @scottyc298 https://t.co/iEvv7cHytg",en,,['https://pbs.twimg.com/media/FNBRZKyXwAIDBFe.jpg'],TweetDeck,,,
-13,2022-03-04 15:07:24+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern arriving in Glasgow this afternoon.
+Via @scottyc298 https://t.co/iEvv7cHytg",en,,['https://pbs.twimg.com/media/FNBRZKyXwAIDBFe.jpg'],
+2022-03-04 15:07:24+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern arriving in Glasgow this afternoon.
 
-via @whatthomassaw https://t.co/Fp5dUJqZ7E",en,,['https://pbs.twimg.com/media/FNA61BJXwAwpcnj.jpg'],TweetDeck,,,
-14,2022-03-04 14:41:50+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidespring coming out of dry dock into the wet basin at @CammellLaird today.
+via @whatthomassaw https://t.co/Fp5dUJqZ7E",en,,['https://pbs.twimg.com/media/FNA61BJXwAwpcnj.jpg'],
+2022-03-04 14:41:50+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidespring coming out of dry dock into the wet basin at @CammellLaird today.
 
-Via @GogleddIwerddon https://t.co/tUyw1ackf8",en,,['https://pbs.twimg.com/media/FNA1BXzXMAARBIR.jpg'],TweetDeck,,,
-15,2022-03-04 14:24:26+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Spey visits the Pitcairn Islands
+Via @GogleddIwerddon https://t.co/tUyw1ackf8",en,,['https://pbs.twimg.com/media/FNA1BXzXMAARBIR.jpg'],
+2022-03-04 14:24:26+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Spey visits the Pitcairn Islands
 
-https://t.co/Qz7CYZUbXo https://t.co/XzrLCQgolp",en,,['https://pbs.twimg.com/media/FNAw0v6WUAIIQun.jpg'],TweetDeck,,,
-16,2022-03-04 14:19:07+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HmsBrocklesby inbound to Portsmouth today.
+https://t.co/Qz7CYZUbXo https://t.co/XzrLCQgolp",en,,['https://pbs.twimg.com/media/FNAw0v6WUAIIQun.jpg'],
+2022-03-04 14:19:07+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HmsBrocklesby inbound to Portsmouth today.
 
-via @georgeemmett8 https://t.co/1b6lbDtOuw",en,,['https://pbs.twimg.com/media/FNAvx3AWQAojLjf.jpg'],TweetDeck,,,
-17,2022-03-04 14:07:23+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSGrimsby alsongside in Stavanger 🇳🇴with ships of #SNMCMG1 
+via @georgeemmett8 https://t.co/1b6lbDtOuw",en,,['https://pbs.twimg.com/media/FNAvx3AWQAojLjf.jpg'],
+2022-03-04 14:07:23+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSGrimsby alsongside in Stavanger 🇳🇴with ships of #SNMCMG1 
 
-Via @NatEsmeRun https://t.co/YbAi5qnkcx",en,['SNMCMG1'],['https://pbs.twimg.com/media/FNAtIaJXoAUEXH8.jpg'],TweetDeck,,,
-18,2022-03-03 18:55:59+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@RFAArgus Via @Rockhoppas https://t.co/RCpNpQPzy3,und,,['https://pbs.twimg.com/media/FM8lodCX0Ac9rq6.jpg'],TweetDeck,,,
-19,2022-03-03 18:50:12+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,Sunset seen from @RFAArgus before arriving in Devonport this evening. https://t.co/6DcFpNVlVF,en,,['https://pbs.twimg.com/media/FM8kSm8XsAciyhS.jpg'],TweetDeck,,,
-20,2022-03-03 18:43:52+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland arriving in 
+Via @NatEsmeRun https://t.co/YbAi5qnkcx",en,['SNMCMG1'],['https://pbs.twimg.com/media/FNAtIaJXoAUEXH8.jpg'],
+2022-03-03 18:55:59+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@RFAArgus Via @Rockhoppas https://t.co/RCpNpQPzy3,und,,['https://pbs.twimg.com/media/FM8lodCX0Ac9rq6.jpg'],
+2022-03-03 18:50:12+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,Sunset seen from @RFAArgus before arriving in Devonport this evening. https://t.co/6DcFpNVlVF,en,,['https://pbs.twimg.com/media/FM8kSm8XsAciyhS.jpg'],
+2022-03-03 18:43:52+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland arriving in 
 🇺🇸Norfolk, Virginia today.
 
-via @johnmorgan726 / @WarshipCam https://t.co/1R299iJN8d",en,,['https://pbs.twimg.com/media/FM8i1GmX0AMvkR5.jpg'],TweetDeck,,,
-21,2022-03-03 12:09:47+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDefender returns to Portsmouth this morning.
+via @johnmorgan726 / @WarshipCam https://t.co/1R299iJN8d",en,,['https://pbs.twimg.com/media/FM8i1GmX0AMvkR5.jpg'],
+2022-03-03 12:09:47+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDefender returns to Portsmouth this morning.
 
-Via @Omgtiggeroni https://t.co/lypjqRkCrD",en,,['https://pbs.twimg.com/media/FM7IndoWQAAGDHg.jpg'],TweetDeck,,,
-22,2022-03-03 09:10:32+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@HmsShoreham in dry dock at @DalesMarine1 shipyard in Troon for maintenance work. https://t.co/t68pscOAe9,en,,['https://pbs.twimg.com/media/FM6fWU_WYAIdoLb.jpg'],TweetDeck,,,
-23,2022-03-03 08:10:28+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern seen during navigation training around the western Isles of Scotland
+Via @Omgtiggeroni https://t.co/lypjqRkCrD",en,,['https://pbs.twimg.com/media/FM7IndoWQAAGDHg.jpg'],
+2022-03-03 09:10:32+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HmsShoreham in dry dock at @DalesMarine1 shipyard in Troon for maintenance work. https://t.co/t68pscOAe9,en,,['https://pbs.twimg.com/media/FM6fWU_WYAIdoLb.jpg'],
+2022-03-03 08:10:28+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern seen during navigation training around the western Isles of Scotland
 
-via @NTS_archaeology https://t.co/bc6uKyaiVK",en,,['https://pbs.twimg.com/media/FM6R2b2XMAAmi-g.jpg'],TweetDeck,,,
-24,2022-03-03 08:07:00+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSHurworth rafted up with @hms_mersey in Portsmouth
+via @NTS_archaeology https://t.co/bc6uKyaiVK",en,,['https://pbs.twimg.com/media/FM6R2b2XMAAmi-g.jpg'],
+2022-03-03 08:07:00+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSHurworth rafted up with @hms_mersey in Portsmouth
 
 @HMSDuncan and @hms_tyne beyond.
 
-Via @AWenham1 https://t.co/P00ISMt8R5",en,,['https://pbs.twimg.com/media/FM6Q6jrWUAUqrST.jpg'],TweetDeck,,,
-25,2022-03-02 17:12:52+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Richmond off the UHAF and alongside South Railway Jetty in Portsmouth today.
+Via @AWenham1 https://t.co/P00ISMt8R5",en,,['https://pbs.twimg.com/media/FM6Q6jrWUAUqrST.jpg'],
+2022-03-02 17:12:52+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Richmond off the UHAF and alongside South Railway Jetty in Portsmouth today.
 
-Via @RNPics_ https://t.co/6SNscHY6uf",en,,['https://pbs.twimg.com/media/FM3EZ6vX0AEYP87.jpg'],TweetDeck,,,
-26,2022-03-02 15:51:08+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@hmssevern passing under the Skye Bridge during navigation training around the Western Isles of Scotland. https://t.co/Vtum1aUcuX,en,,['https://pbs.twimg.com/media/FM2xVFTXoAUS0gc.jpg'],TweetDeck,,,
-27,2022-03-02 15:00:44+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_argyll arrives on the Mersey this afternoon.
+Via @RNPics_ https://t.co/6SNscHY6uf",en,,['https://pbs.twimg.com/media/FM3EZ6vX0AEYP87.jpg'],
+2022-03-02 15:51:08+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@hmssevern passing under the Skye Bridge during navigation training around the Western Isles of Scotland. https://t.co/Vtum1aUcuX,en,,['https://pbs.twimg.com/media/FM2xVFTXoAUS0gc.jpg'],
+2022-03-02 15:00:44+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_argyll arrives on the Mersey this afternoon.
 
-Via @Streetgang42 https://t.co/U0tJ8xw3Lt",en,,['https://pbs.twimg.com/media/FM2mMPWXIAE6jEa.jpg'],TweetDeck,,,
-28,2022-03-02 13:15:02+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@Liveuamap Possible 🇷🇺Admiral Grigorovich class frigate and Steregushchiy class corvette seen off 🇺🇦Odessa earlier https://t.co/MRWUQmFipn,en,,['https://pbs.twimg.com/media/FM2N7axXsAErcHJ.jpg'],TweetDeck,,,
-29,2022-03-02 13:06:19+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Unconfirmed:
+Via @Streetgang42 https://t.co/U0tJ8xw3Lt",en,,['https://pbs.twimg.com/media/FM2mMPWXIAE6jEa.jpg'],
+2022-03-02 13:15:02+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@Liveuamap Possible 🇷🇺Admiral Grigorovich class frigate and Steregushchiy class corvette seen off 🇺🇦Odessa earlier https://t.co/MRWUQmFipn,en,,['https://pbs.twimg.com/media/FM2N7axXsAErcHJ.jpg'],
+2022-03-02 13:06:19+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Unconfirmed:
 
 Reports of 🇷🇺Russian warship on fire off Odessa🇺🇦
 
-Via @Liveuamap https://t.co/gdZOIioVs4",en,,['https://pbs.twimg.com/media/FM2LVptXwAEEPVF.jpg'],TweetDeck,,,
-30,2022-03-02 07:54:13+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_albion alongside in in Tromsø, 🇳🇴Norway
+Via @Liveuamap https://t.co/gdZOIioVs4",en,,['https://pbs.twimg.com/media/FM2LVptXwAEEPVF.jpg'],
+2022-03-02 07:54:13+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_albion alongside in in Tromsø, 🇳🇴Norway
 
 #ColdResponse22 
 
-via @mheneise https://t.co/QBxzCpyfpE",no,['ColdResponse22'],['https://pbs.twimg.com/media/FM1EkkjXsAIUUIa.jpg'],TweetDeck,,,
-31,2022-03-01 20:33:55+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT in Arctic waters. 
+via @mheneise https://t.co/QBxzCpyfpE",no,['ColdResponse22'],['https://pbs.twimg.com/media/FM1EkkjXsAIUUIa.jpg'],
+2022-03-01 20:33:55+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT in Arctic waters. 
 
-Arrived in Stavanger, 🇳🇴Norway today #ColdResponse22 https://t.co/TGfll62CIi",en,['ColdResponse22'],['https://pbs.twimg.com/ext_tw_video_thumb/1498758361269035008/pu/img/YD29oh0i36VX7ckZ.jpg'],TweetDeck,,,
-32,2022-03-01 20:24:31+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent seen from Turkish frigate 🇹🇷TCG Göksu on patrol in the Mediterranean.
+Arrived in Stavanger, 🇳🇴Norway today #ColdResponse22 https://t.co/TGfll62CIi",en,['ColdResponse22'],['https://pbs.twimg.com/ext_tw_video_thumb/1498758361269035008/pu/img/YD29oh0i36VX7ckZ.jpg'],
+2022-03-01 20:24:31+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent seen from Turkish frigate 🇹🇷TCG Göksu on patrol in the Mediterranean.
 
 #SNMG2 #NATO 
 
-Via: Kara Bora https://t.co/T5QEKgP0ZI",und,"['SNMG2', 'NATO']",['https://pbs.twimg.com/media/FMymtRjXsAQBE_D.jpg'],TweetDeck,,,
-33,2022-03-01 13:04:04+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Delivery of many critical Royal Navy capabilities still years away
+Via: Kara Bora https://t.co/T5QEKgP0ZI",und,"['SNMG2', 'NATO']",['https://pbs.twimg.com/media/FMymtRjXsAQBE_D.jpg'],
+2022-03-01 13:04:04+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Delivery of many critical Royal Navy capabilities still years away
 
-https://t.co/F0A2YdNtMT https://t.co/C3F892GgeF",en,,['https://pbs.twimg.com/media/FMxB50dX0AUFIwF.jpg'],TweetDeck,,,
-34,2022-03-01 09:45:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Westminster also in maintenance period in Portsmouth. 
+https://t.co/F0A2YdNtMT https://t.co/C3F892GgeF",en,,['https://pbs.twimg.com/media/FMxB50dX0AUFIwF.jpg'],
+2022-03-01 09:45:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Westminster also in maintenance period in Portsmouth. 
 
-Via @AWenham1 https://t.co/yVi97HJVbg",en,,['https://pbs.twimg.com/media/FMwUMsaWUAAPuF9.jpg'],TweetDeck,,,
-35,2022-03-01 09:44:16+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_kent in C Lock yesterday - going into 3 basin for an overdue maintenance period.
+Via @AWenham1 https://t.co/yVi97HJVbg",en,,['https://pbs.twimg.com/media/FMwUMsaWUAAPuF9.jpg'],
+2022-03-01 09:44:16+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_kent in C Lock yesterday - going into 3 basin for an overdue maintenance period.
 
-Via @AWenham1 https://t.co/1CjnBhjs67",en,,['https://pbs.twimg.com/media/FMwUIylXsAQDMMY.jpg'],TweetDeck,,,
-36,2022-03-01 08:35:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Inside @HMSQNLZ 
+Via @AWenham1 https://t.co/1CjnBhjs67",en,,['https://pbs.twimg.com/media/FMwUIylXsAQDMMY.jpg'],
+2022-03-01 08:35:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Inside @HMSQNLZ 
 Life on board during #CSG21
 by @ChrisTerrill
 
 (Paywalled) 
 
-https://t.co/EMr4eoDsF9 https://t.co/PDk77F1WNb",en,['CSG21'],['https://pbs.twimg.com/media/FMwEHY4XEAEtCmW.jpg'],TweetDeck,,,
-37,2022-03-01 08:24:19+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇨🇦Canadian Surface Combatant program remains best option for @RoyalCanNavy 
+https://t.co/EMr4eoDsF9 https://t.co/PDk77F1WNb",en,['CSG21'],['https://pbs.twimg.com/media/FMwEHY4XEAEtCmW.jpg'],
+2022-03-01 08:24:19+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇨🇦Canadian Surface Combatant program remains best option for @RoyalCanNavy 
 
-https://t.co/3FrpyxlpdZ https://t.co/iHdWTbErwU",fr,,['https://pbs.twimg.com/media/FMwB3S2XEAIT9AS.jpg'],TweetDeck,,,
-38,2022-03-01 08:16:02+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria arrived at  Loch Striven Oil and Fuel Jetty yesterday
+https://t.co/3FrpyxlpdZ https://t.co/iHdWTbErwU",fr,,['https://pbs.twimg.com/media/FMwB3S2XEAIT9AS.jpg'],
+2022-03-01 08:16:02+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria arrived at  Loch Striven Oil and Fuel Jetty yesterday
 
-Via: Piran Smith https://t.co/bR5FMySK87",en,,['https://pbs.twimg.com/media/FMv_9GDXsAACsYL.jpg'],TweetDeck,,,
-39,2022-02-28 18:48:02+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@hmsdiamond in heavy seas on her way to join up with NATO allies in the Eastern Mediterranean. https://t.co/lv3KYxg1qj,en,,['https://pbs.twimg.com/media/FMtHAgrXEAErbS3.jpg'],TweetDeck,,,
-40,2022-02-28 17:20:27+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAMountsBay at Sorreisa Jetty, northern 🇳🇴Norway ahead of exercise #ColdResponse22 
+Via: Piran Smith https://t.co/bR5FMySK87",en,,['https://pbs.twimg.com/media/FMv_9GDXsAACsYL.jpg'],
+2022-02-28 18:48:02+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@hmsdiamond in heavy seas on her way to join up with NATO allies in the Eastern Mediterranean. https://t.co/lv3KYxg1qj,en,,['https://pbs.twimg.com/media/FMtHAgrXEAErbS3.jpg'],
+2022-02-28 17:20:27+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAMountsBay at Sorreisa Jetty, northern 🇳🇴Norway ahead of exercise #ColdResponse22 
 
-Via: Sam Braik https://t.co/El2sRmEUNa",en,['ColdResponse22'],['https://pbs.twimg.com/media/FMsy6KtX0AUtTEi.jpg'],TweetDeck,,,
-41,2022-02-28 14:28:27+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Its been a long work up - Astute class submarine outbound on the Clyde again this morning.
+Via: Sam Braik https://t.co/El2sRmEUNa",en,['ColdResponse22'],['https://pbs.twimg.com/media/FMsy6KtX0AUtTEi.jpg'],
+2022-02-28 14:28:27+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Its been a long work up - Astute class submarine outbound on the Clyde again this morning.
 
-Via @SheilaLWeir https://t.co/4CqeaLvHOI",en,,['https://pbs.twimg.com/media/FMsLnTMXwAgZYul.jpg'],TweetDeck,,,
-42,2022-02-28 14:03:34+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATideforce and @RFACardiganBay alongside in Portland today.
+Via @SheilaLWeir https://t.co/4CqeaLvHOI",en,,['https://pbs.twimg.com/media/FMsLnTMXwAgZYul.jpg'],
+2022-02-28 14:03:34+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATideforce and @RFACardiganBay alongside in Portland today.
 
-Via @AmzJS13 https://t.co/1zk8kOFmYY",en,,['https://pbs.twimg.com/media/FMsF7THXwAUS0nB.jpg'],TweetDeck,,,
-43,2022-02-28 10:59:38+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@RFAFortVictoria @ArgyllSeaGlass Via @SheilaLWeir https://t.co/BRJUSzt3VF,und,,['https://pbs.twimg.com/media/FMrbzkAXwAgWnDw.jpg'],TweetDeck,,,
-44,2022-02-28 10:27:14+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@ArgyllSeaGlass @RFAFortVictoria Heading down the Loch https://t.co/YrJLRWDfu6,en,,['https://pbs.twimg.com/media/FMrUal4WQAULdg0.jpg'],TweetDeck,,,
-45,2022-02-28 10:15:18+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria outbound from Glen Mallan on Loch Long this morning.
+Via @AmzJS13 https://t.co/1zk8kOFmYY",en,,['https://pbs.twimg.com/media/FMsF7THXwAUS0nB.jpg'],
+2022-02-28 10:59:38+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@RFAFortVictoria @ArgyllSeaGlass Via @SheilaLWeir https://t.co/BRJUSzt3VF,und,,['https://pbs.twimg.com/media/FMrbzkAXwAgWnDw.jpg'],
+2022-02-28 10:27:14+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@ArgyllSeaGlass @RFAFortVictoria Heading down the Loch https://t.co/YrJLRWDfu6,en,,['https://pbs.twimg.com/media/FMrUal4WQAULdg0.jpg'],
+2022-02-28 10:15:18+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria outbound from Glen Mallan on Loch Long this morning.
 
-Via @ArgyllSeaGlass https://t.co/RWVt07zk11",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1498240292193026050/pu/img/J_3ylGaNQan7npRD.jpg'],TweetDeck,,,
-46,2022-02-28 09:46:28+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@ItalianNavy @Rockhoppas Via @AmzJS13 https://t.co/SL7ICqFqnD,und,,['https://pbs.twimg.com/media/FMrLFQYXwAYi6tb.jpg'],TweetDeck,,,
-47,2022-02-28 09:31:18+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER outbound from Devonport this morning with 🇮🇹 ITS Giuseppe Garibaldi beyond.
+Via @ArgyllSeaGlass https://t.co/RWVt07zk11",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1498240292193026050/pu/img/J_3ylGaNQan7npRD.jpg'],
+2022-02-28 09:46:28+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@ItalianNavy @Rockhoppas Via @AmzJS13 https://t.co/SL7ICqFqnD,und,,['https://pbs.twimg.com/media/FMrLFQYXwAYi6tb.jpg'],
+2022-02-28 09:31:18+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER outbound from Devonport this morning with 🇮🇹 ITS Giuseppe Garibaldi beyond.
 
-Via @RfaNostalgia https://t.co/nB0dDmw9eV",en,,['https://pbs.twimg.com/media/FMrHiWzXMAITatT.jpg'],TweetDeck,,,
-48,2022-02-27 20:04:01+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Taking down the common arguments against Trident (Britain’s nuclear weapons)
+Via @RfaNostalgia https://t.co/nB0dDmw9eV",en,,['https://pbs.twimg.com/media/FMrHiWzXMAITatT.jpg'],
+2022-02-27 20:04:01+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Taking down the common arguments against Trident (Britain’s nuclear weapons)
 
-https://t.co/DBlv8glYnN https://t.co/qdvrnTd6rK",en,,['https://pbs.twimg.com/media/FMoLa6BWYAcLiEP.jpg'],TweetDeck,,,
-49,2022-02-27 19:47:20+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @GuidoFawkes: That moment when you realise the boss is stark raving mad. https://t.co/eqRGoJ4ehA,en,,['https://pbs.twimg.com/media/FMn6GNfWYA8YCKy.jpg'],TweetDeck,,,
-50,2022-02-26 13:09:11+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @Intrepid_Sailor: As a serving couple it never gets easier. https://t.co/VKLI1vL5G3,en,,['https://pbs.twimg.com/media/FMdzLKOX0AYY_mE.jpg'],TweetDeck,,,
-51,2022-02-26 10:26:29+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDauntless in @CammellLaird this week. Not leaving any time soon
+https://t.co/DBlv8glYnN https://t.co/qdvrnTd6rK",en,,['https://pbs.twimg.com/media/FMoLa6BWYAcLiEP.jpg'],
+2022-02-27 19:47:20+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @GuidoFawkes: That moment when you realise the boss is stark raving mad. https://t.co/eqRGoJ4ehA,en,,['https://pbs.twimg.com/media/FMn6GNfWYA8YCKy.jpg'],
+2022-02-26 13:09:11+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @Intrepid_Sailor: As a serving couple it never gets easier. https://t.co/VKLI1vL5G3,en,,['https://pbs.twimg.com/media/FMdzLKOX0AYY_mE.jpg'],
+2022-02-26 10:26:29+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDauntless in @CammellLaird this week. Not leaving any time soon
 
-via @ActivateDgtl https://t.co/LOUIcJLDJl",en,,['https://pbs.twimg.com/media/FMhBDgjWYAA2nBc.jpg'],TweetDeck,,,
-52,2022-02-25 19:32:21+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDefender sails from Portsmouth this evening.
+via @ActivateDgtl https://t.co/LOUIcJLDJl",en,,['https://pbs.twimg.com/media/FMhBDgjWYAA2nBc.jpg'],
+2022-02-25 19:32:21+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDefender sails from Portsmouth this evening.
 
-Via @georgeemmett8 https://t.co/Vnm6xpuwW1",en,,['https://pbs.twimg.com/media/FMd0ZHRWYAYr4I7.jpg'],TweetDeck,,,
-53,2022-02-25 12:59:21+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Richmond sails from Devonport this afternoon.
+Via @georgeemmett8 https://t.co/Vnm6xpuwW1",en,,['https://pbs.twimg.com/media/FMd0ZHRWYAYr4I7.jpg'],
+2022-02-25 12:59:21+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Richmond sails from Devonport this afternoon.
 
-Via @TomLeachPhotos https://t.co/3v9ubzrFR5",en,,['https://pbs.twimg.com/media/FMcaaXLXIAkt6_h.jpg'],TweetDeck,,,
-54,2022-02-25 12:54:57+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine outbound from Loch Long this morning.
+Via @TomLeachPhotos https://t.co/3v9ubzrFR5",en,,['https://pbs.twimg.com/media/FMcaaXLXIAkt6_h.jpg'],
+2022-02-25 12:54:57+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine outbound from Loch Long this morning.
 
-Via @SheilaLWeir https://t.co/0YCZVtD4wv",en,,['https://pbs.twimg.com/media/FMcZbNJXIDEQby9.jpg'],TweetDeck,,,
-55,2022-02-25 12:32:35+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidesurge inbound to Devonport this afternoon
+Via @SheilaLWeir https://t.co/0YCZVtD4wv",en,,['https://pbs.twimg.com/media/FMcZbNJXIDEQby9.jpg'],
+2022-02-25 12:32:35+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidesurge inbound to Devonport this afternoon
 
-Via @Rockhoppas https://t.co/m5aPk5Ypn2",en,,['https://pbs.twimg.com/media/FMcUUlYWQAE7Gbz.jpg'],TweetDeck,,,
-56,2022-02-25 10:38:36+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"HMS Severn in the sun, off Laxey Bay, 🇮🇲Isle of Man
+Via @Rockhoppas https://t.co/m5aPk5Ypn2",en,,['https://pbs.twimg.com/media/FMcUUlYWQAE7Gbz.jpg'],
+2022-02-25 10:38:36+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"HMS Severn in the sun, off Laxey Bay, 🇮🇲Isle of Man
 
-Via @SeanConnick10 https://t.co/bLvqXIWmZF",en,,['https://pbs.twimg.com/media/FMb6LZoXMBI8EV9.jpg'],TweetDeck,,,
-57,2022-02-24 18:12:36+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_pembroke on the Clyde today 
+Via @SeanConnick10 https://t.co/bLvqXIWmZF",en,,['https://pbs.twimg.com/media/FMb6LZoXMBI8EV9.jpg'],
+2022-02-24 18:12:36+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_pembroke on the Clyde today 
 
-via @paulsoutlook https://t.co/saDW04AeN3",en,,['https://pbs.twimg.com/media/FMYYgs8WYAMp3u-.jpg'],TweetDeck,,,
-58,2022-02-24 14:12:37+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HmsShoreham on the Clyde today
+via @paulsoutlook https://t.co/saDW04AeN3",en,,['https://pbs.twimg.com/media/FMYYgs8WYAMp3u-.jpg'],
+2022-02-24 14:12:37+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HmsShoreham on the Clyde today
 
-Via @SheilaLWeir https://t.co/T2xmxcMVnp",en,,['https://pbs.twimg.com/media/FMXhVSzX0AYXHDS.jpg'],TweetDeck,,,
-59,2022-02-24 12:21:32+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RNGibSqn takes ownership of HMS Cutlass
+Via @SheilaLWeir https://t.co/T2xmxcMVnp",en,,['https://pbs.twimg.com/media/FMXhVSzX0AYXHDS.jpg'],
+2022-02-24 12:21:32+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RNGibSqn takes ownership of HMS Cutlass
 
-https://t.co/Gu93sW52h9 https://t.co/95X0tmOwyx",en,,['https://pbs.twimg.com/media/FMXIJczXMAU50gP.jpg'],TweetDeck,,,
-60,2022-02-24 12:12:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸USS Porter outbound from Devonport this morning.
+https://t.co/Gu93sW52h9 https://t.co/95X0tmOwyx",en,,['https://pbs.twimg.com/media/FMXIJczXMAU50gP.jpg'],
+2022-02-24 12:12:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸USS Porter outbound from Devonport this morning.
 
-Via @RfaNostalgia https://t.co/fHz1XF8T2s",en,,['https://pbs.twimg.com/media/FMXGJk3XoAMSLg3.jpg'],TweetDeck,,,
-61,2022-02-24 08:19:52+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFAFortVictoria in the snow at Glen Mallan https://t.co/kmC2ueYCTO,en,,['https://pbs.twimg.com/media/FMWQ44yWYAAzUXZ.jpg'],TweetDeck,,,
-62,2022-02-24 08:16:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent - sea state 5 in the Mediterranean. 
+Via @RfaNostalgia https://t.co/fHz1XF8T2s",en,,['https://pbs.twimg.com/media/FMXGJk3XoAMSLg3.jpg'],
+2022-02-24 08:19:52+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFAFortVictoria in the snow at Glen Mallan https://t.co/kmC2ueYCTO,en,,['https://pbs.twimg.com/media/FMWQ44yWYAAzUXZ.jpg'],
+2022-02-24 08:16:54+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent - sea state 5 in the Mediterranean. 
 
 #SNGM2 
-#dynamicmanta22 https://t.co/oeffK7WllH",ro,"['SNGM2', 'dynamicmanta22']",['https://pbs.twimg.com/ext_tw_video_thumb/1496761010585223170/pu/img/6dv775pevcoTjpfr.jpg'],TweetDeck,,,
-63,2022-02-23 11:46:47+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Royal Navy surface escorts - Snapshot, 23 Feb 2022 https://t.co/HFjpQ809py",en,,['https://pbs.twimg.com/media/FMR2SI3XwAIcmnp.jpg'],TweetDeck,,,
-64,2022-02-23 08:00:57+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"4th time lucky… 
+#dynamicmanta22 https://t.co/oeffK7WllH",ro,"['SNGM2', 'dynamicmanta22']",['https://pbs.twimg.com/ext_tw_video_thumb/1496761010585223170/pu/img/6dv775pevcoTjpfr.jpg'],
+2022-02-23 11:46:47+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Royal Navy surface escorts - Snapshot, 23 Feb 2022 https://t.co/HFjpQ809py",en,,['https://pbs.twimg.com/media/FMR2SI3XwAIcmnp.jpg'],
+2022-02-23 08:00:57+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"4th time lucky… 
 
 @hmsdiamond due to sail at 0900 this morning.
 
-Photo: @AWenham1 https://t.co/xDR9iER0bY",en,,['https://pbs.twimg.com/media/FMRC4bAXEAQF3bJ.jpg'],TweetDeck,,,
-65,2022-02-22 18:11:41+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute Class submarine inbound on the Clyde this evening
+Photo: @AWenham1 https://t.co/xDR9iER0bY",en,,['https://pbs.twimg.com/media/FMRC4bAXEAQF3bJ.jpg'],
+2022-02-22 18:11:41+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute Class submarine inbound on the Clyde this evening
 
-via @SheilaLWeir https://t.co/GHMMLkGzKL",en,,['https://pbs.twimg.com/media/FMOFJbsXoAEAKum.jpg'],TweetDeck,,,
-66,2022-02-22 15:07:55+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Albion south of Plymouth Breakwater with @RFATiderace beyond.
+via @SheilaLWeir https://t.co/GHMMLkGzKL",en,,['https://pbs.twimg.com/media/FMOFJbsXoAEAKum.jpg'],
+2022-02-22 15:07:55+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Albion south of Plymouth Breakwater with @RFATiderace beyond.
 
-Via @RfaNostalgia https://t.co/XJgkSqviJf",en,,['https://pbs.twimg.com/media/FMNbG3KXoAIm6SS.jpg'],TweetDeck,,,
-67,2022-02-22 09:43:56+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_albion sails from Devonport this morning.
+Via @RfaNostalgia https://t.co/XJgkSqviJf",en,,['https://pbs.twimg.com/media/FMNbG3KXoAIm6SS.jpg'],
+2022-02-22 09:43:56+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_albion sails from Devonport this morning.
 
 #ColdResponse22 
 
-Via @TomLeachPhotos https://t.co/7R04Mr5ctN",en,['ColdResponse22'],['https://pbs.twimg.com/media/FMMQ4hJWQAclaLN.jpg'],TweetDeck,,,
-68,2022-02-22 09:41:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"After a week alongside, @HMS_Tamar sails from Yokosuka 🇯🇵 today flying United Nations flag.
+Via @TomLeachPhotos https://t.co/7R04Mr5ctN",en,['ColdResponse22'],['https://pbs.twimg.com/media/FMMQ4hJWQAclaLN.jpg'],
+2022-02-22 09:41:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"After a week alongside, @HMS_Tamar sails from Yokosuka 🇯🇵 today flying United Nations flag.
 
-Via @DixieRefuelers https://t.co/swbA8vWcz6",en,,['https://pbs.twimg.com/media/FMMQS4IXEAIn5-8.jpg'],TweetDeck,,,
-69,2022-02-21 16:10:58+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland outbound from @HMNBDevonport this afternoon. 
+Via @DixieRefuelers https://t.co/swbA8vWcz6",en,,['https://pbs.twimg.com/media/FMMQS4IXEAIn5-8.jpg'],
+2022-02-21 16:10:58+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland outbound from @HMNBDevonport this afternoon. 
 
-Via @TomLeachPhotos https://t.co/2Ll8FjxO3w",en,,['https://pbs.twimg.com/media/FMIfuw5XoAYv0Xe.jpg'],TweetDeck,,,
-70,2022-02-21 13:26:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSGrimsby sails from Portsmouth today
+Via @TomLeachPhotos https://t.co/2Ll8FjxO3w",en,,['https://pbs.twimg.com/media/FMIfuw5XoAYv0Xe.jpg'],
+2022-02-21 13:26:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSGrimsby sails from Portsmouth today
 
-Via @scottyc298 @HMSLedbury https://t.co/DmHtsSnPIw",en,,['https://pbs.twimg.com/media/FMH6NzwWQAEAli3.jpg'],TweetDeck,,,
-71,2022-02-21 09:53:15+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_trent and ships of #SNMG2 Task Group arrive in  Cantania, 🇮🇹Sicily https://t.co/peuxIvaMhq",en,['SNMG2'],['https://pbs.twimg.com/ext_tw_video_thumb/1495697165792030720/pu/img/hdbnQeoiDR6nyHQb.jpg'],TweetDeck,,,
-72,2022-02-21 09:35:10+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATiderace conducts Replenishment at Sea with 🇺🇸USS Porter 13/2/22 https://t.co/u2DQA28OUi,en,,['https://pbs.twimg.com/media/FMHFXCAWQAAcNde.jpg'],TweetDeck,,,
-73,2022-02-21 08:08:20+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Movements of the 🇷🇺Russian Cruiser Marshal Ustinov in 2022
+Via @scottyc298 @HMSLedbury https://t.co/DmHtsSnPIw",en,,['https://pbs.twimg.com/media/FMH6NzwWQAEAli3.jpg'],
+2022-02-21 09:53:15+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_trent and ships of #SNMG2 Task Group arrive in  Cantania, 🇮🇹Sicily https://t.co/peuxIvaMhq",en,['SNMG2'],['https://pbs.twimg.com/ext_tw_video_thumb/1495697165792030720/pu/img/hdbnQeoiDR6nyHQb.jpg'],
+2022-02-21 09:35:10+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATiderace conducts Replenishment at Sea with 🇺🇸USS Porter 13/2/22 https://t.co/u2DQA28OUi,en,,['https://pbs.twimg.com/media/FMHFXCAWQAAcNde.jpg'],
+2022-02-21 08:08:20+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Movements of the 🇷🇺Russian Cruiser Marshal Ustinov in 2022
 
 by @TheShipYard2 
 
-https://t.co/fp0AJ6FxdF https://t.co/YM4KuAkdBY",en,,['https://pbs.twimg.com/media/FMGxfjcXMAE9HYu.jpg'],TweetDeck,,,
-74,2022-02-21 08:00:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @jeromestarkey: This was Odessa today https://t.co/MHA6YuUN4T,en,,['https://pbs.twimg.com/media/FMD0LCBWUAc1q19.jpg'],TweetDeck,,,
-75,2022-02-20 17:21:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@RFATidesurge @SheilaLWeir via @nato_news https://t.co/J8XFXVFwG1,und,,['https://pbs.twimg.com/media/FMDmYjyWQAoxFiY.jpg'],TweetDeck,,,
-76,2022-02-20 16:25:43+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidesurge outbound on the Firth of Clyde this afternoon.
+https://t.co/fp0AJ6FxdF https://t.co/YM4KuAkdBY",en,,['https://pbs.twimg.com/media/FMGxfjcXMAE9HYu.jpg'],
+2022-02-21 08:00:54+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @jeromestarkey: This was Odessa today https://t.co/MHA6YuUN4T,en,,['https://pbs.twimg.com/media/FMD0LCBWUAc1q19.jpg'],
+2022-02-20 17:21:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@RFATidesurge @SheilaLWeir via @nato_news https://t.co/J8XFXVFwG1,und,,['https://pbs.twimg.com/media/FMDmYjyWQAoxFiY.jpg'],
+2022-02-20 16:25:43+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidesurge outbound on the Firth of Clyde this afternoon.
 
-Via @SheilaLWeir https://t.co/L1sVa0XAtM",en,,['https://pbs.twimg.com/media/FMDZrFPXMAc89sc.jpg'],TweetDeck,,,
-77,2022-02-20 09:21:44+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo arrives in #Gibraltar this morning
+Via @SheilaLWeir https://t.co/L1sVa0XAtM",en,,['https://pbs.twimg.com/media/FMDZrFPXMAc89sc.jpg'],
+2022-02-20 09:21:44+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo arrives in #Gibraltar this morning
 
-via @dparody https://t.co/FyJEHYqsuL",en,['Gibraltar'],['https://pbs.twimg.com/media/FMB4rqiWYAIFpOT.jpg'],TweetDeck,,,
-78,2022-02-19 20:04:07+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Sunset in Stavanger 🇳🇴@HMSLANCASTER 
+via @dparody https://t.co/FyJEHYqsuL",en,['Gibraltar'],['https://pbs.twimg.com/media/FMB4rqiWYAIFpOT.jpg'],
+2022-02-19 20:04:07+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Sunset in Stavanger 🇳🇴@HMSLANCASTER 
 
-via: thatstheway_iseeit https://t.co/tyLEHVzGJg",en,,['https://pbs.twimg.com/media/FL_CIAsXEAQXdC_.jpg'],TweetDeck,,,
-79,2022-02-19 19:48:58+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSScottRN arrives in Barbados today
+via: thatstheway_iseeit https://t.co/tyLEHVzGJg",en,,['https://pbs.twimg.com/media/FL_CIAsXEAQXdC_.jpg'],
+2022-02-19 19:48:58+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSScottRN arrives in Barbados today
 
-via @UKScottFW https://t.co/nZ607OVkX1",en,,['https://pbs.twimg.com/media/FL--qOMWYAA2T5G.jpg'],TweetDeck,,,
-80,2022-02-19 19:47:09+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,Rather more calm than yesterday - @RFAArgus alongside Falmouth harbour this evening. https://t.co/2J1jTIX7au,en,,['https://pbs.twimg.com/media/FL--JzGXwActyVU.jpg'],TweetDeck,,,
-81,2022-02-19 14:11:20+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSLANCASTER arrived in Stavanger 🇳🇴 this morning https://t.co/X0C7w1GMlp,en,,['https://pbs.twimg.com/media/FL9xY--XMAMxw2A.jpg'],TweetDeck,,,
-82,2022-02-18 14:08:21+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern hove to in the Solent right now #StormEunice 
+via @UKScottFW https://t.co/nZ607OVkX1",en,,['https://pbs.twimg.com/media/FL--qOMWYAA2T5G.jpg'],
+2022-02-19 19:47:09+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,Rather more calm than yesterday - @RFAArgus alongside Falmouth harbour this evening. https://t.co/2J1jTIX7au,en,,['https://pbs.twimg.com/media/FL--JzGXwActyVU.jpg'],
+2022-02-19 14:11:20+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSLANCASTER arrived in Stavanger 🇳🇴 this morning https://t.co/X0C7w1GMlp,en,,['https://pbs.twimg.com/media/FL9xY--XMAMxw2A.jpg'],
+2022-02-18 14:08:21+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern hove to in the Solent right now #StormEunice 
 
-Via: fuego0408 https://t.co/oABAMlb22l",en,['StormEunice'],['https://pbs.twimg.com/media/FL4m8uCXwAUbjf1.jpg'],TweetDeck,,,
-83,2022-02-18 13:16:40+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,View from @RFAMountsBay weathering #StormEunice alongside in Portland with @RFATideforce and @RFACardiganBay https://t.co/9gANfyFp2a,en,['StormEunice'],['https://pbs.twimg.com/media/FL4bSZAWQAUymvD.jpg'],TweetDeck,,,
-84,2022-02-18 08:50:39+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"New article published yesterday:
+Via: fuego0408 https://t.co/oABAMlb22l",en,['StormEunice'],['https://pbs.twimg.com/media/FL4m8uCXwAUbjf1.jpg'],
+2022-02-18 13:16:40+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,View from @RFAMountsBay weathering #StormEunice alongside in Portland with @RFATideforce and @RFACardiganBay https://t.co/9gANfyFp2a,en,['StormEunice'],['https://pbs.twimg.com/media/FL4bSZAWQAUymvD.jpg'],
+2022-02-18 08:50:39+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"New article published yesterday:
 
 @HMSScottRN extended in service
 
-https://t.co/BVvcC5w6oI https://t.co/j8mNrPJeu1",en,,['https://pbs.twimg.com/media/FL3eZIYXIAAz5Q-.jpg'],TweetDeck,,,
-85,2022-02-17 19:22:41+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_kent returns to Portsmouth this afternoon following visit to Dover.
+https://t.co/BVvcC5w6oI https://t.co/j8mNrPJeu1",en,,['https://pbs.twimg.com/media/FL3eZIYXIAAz5Q-.jpg'],
+2022-02-17 19:22:41+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_kent returns to Portsmouth this afternoon following visit to Dover.
 
-Via @PortsmouthProud https://t.co/aZCAfsMXYV",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1494391362359279624/pu/img/Jv_fMxPD4K2DxtoQ.jpg'],TweetDeck,,,
-86,2022-02-17 16:37:11+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT outbound on the Clyde today  
+Via @PortsmouthProud https://t.co/aZCAfsMXYV",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1494391362359279624/pu/img/Jv_fMxPD4K2DxtoQ.jpg'],
+2022-02-17 16:37:11+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT outbound on the Clyde today  
 
-Via @SheilaLWeir https://t.co/0jyNbx3ssV",en,,['https://pbs.twimg.com/media/FLz_mJcWYAUBcT-.jpg'],TweetDeck,,,
-87,2022-02-17 16:10:44+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest news commentary:
+Via @SheilaLWeir https://t.co/0jyNbx3ssV",en,,['https://pbs.twimg.com/media/FLz_mJcWYAUBcT-.jpg'],
+2022-02-17 16:10:44+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest news commentary:
 
 Royal Navy’s ocean survey vessel HMS Scott extended in service
 
-https://t.co/BVvcC5w6oI https://t.co/ZXtYWlHimX",en,,['https://pbs.twimg.com/media/FLz4rL_VIAUJ578.jpg'],TweetDeck,,,
-88,2022-02-17 14:06:02+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@kon_marine 🇳🇱HNLMS Tromp passing Gravesend - inbound to London today.
+https://t.co/BVvcC5w6oI https://t.co/ZXtYWlHimX",en,,['https://pbs.twimg.com/media/FLz4rL_VIAUJ578.jpg'],
+2022-02-17 14:06:02+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@kon_marine 🇳🇱HNLMS Tromp passing Gravesend - inbound to London today.
 
-Via @jason_photos https://t.co/UyUs1LE2nv",en,,['https://pbs.twimg.com/media/FLzc7fQX0AQ47i9.jpg'],TweetDeck,,,
-89,2022-02-17 13:29:51+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @RFATiderace: Arrived loch striven https://t.co/MKsB9mbEsM,en,,['https://pbs.twimg.com/media/FLzSfZaWUAA6Rxt.jpg'],TweetDeck,,,
-90,2022-02-17 10:56:17+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@rich_scott2 Under-gunned Royal Navy warships? 
+Via @jason_photos https://t.co/UyUs1LE2nv",en,,['https://pbs.twimg.com/media/FLzc7fQX0AQ47i9.jpg'],
+2022-02-17 13:29:51+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @RFATiderace: Arrived loch striven https://t.co/MKsB9mbEsM,en,,['https://pbs.twimg.com/media/FLzSfZaWUAA6Rxt.jpg'],
+2022-02-17 10:56:17+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@rich_scott2 Under-gunned Royal Navy warships? 
 
 https://t.co/TdW8dWi2ES
 
-By @TomSharpe134 (May 2021) https://t.co/up33J2zwiv",en,,['https://pbs.twimg.com/media/FLyxdHUXIAA5ZS3.jpg'],TweetDeck,,,
-91,2022-02-17 08:30:13+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSGrimsby @RNPics_ Via @PortsmouthProud https://t.co/SdMLgFyvL5,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1494227592337149952/pu/img/EjWgxSYzRX5FdMhi.jpg'],TweetDeck,,,
-92,2022-02-17 08:21:34+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Rare visit by Sandown class minehunter.
+By @TomSharpe134 (May 2021) https://t.co/up33J2zwiv",en,,['https://pbs.twimg.com/media/FLyxdHUXIAA5ZS3.jpg'],
+2022-02-17 08:30:13+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSGrimsby @RNPics_ Via @PortsmouthProud https://t.co/SdMLgFyvL5,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1494227592337149952/pu/img/EjWgxSYzRX5FdMhi.jpg'],
+2022-02-17 08:21:34+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Rare visit by Sandown class minehunter.
 
 @HMSGrimsby arrives in Portsmouth this morning.
 
-Via @RNPics_ https://t.co/D7yTRQ5eSB",en,,['https://pbs.twimg.com/media/FLyODeQXwAM6taa.jpg'],TweetDeck,,,
-93,2022-02-17 08:03:06+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria offloading alongside at Glen Mallan  
+Via @RNPics_ https://t.co/D7yTRQ5eSB",en,,['https://pbs.twimg.com/media/FLyODeQXwAM6taa.jpg'],
+2022-02-17 08:03:06+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria offloading alongside at Glen Mallan  
 
-Photo: R. Bettley https://t.co/WxOixBusjr",en,,['https://pbs.twimg.com/media/FLyJ1MaXIAE82IL.jpg'],TweetDeck,,,
-94,2022-02-17 07:59:35+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo passing eastbound through the Strait of Gibraltar yesterday.
+Photo: R. Bettley https://t.co/WxOixBusjr",en,,['https://pbs.twimg.com/media/FLyJ1MaXIAE82IL.jpg'],
+2022-02-17 07:59:35+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo passing eastbound through the Strait of Gibraltar yesterday.
 
-Via @PeterFerrary https://t.co/aXEUfJcrTm",en,,['https://pbs.twimg.com/media/FLyJF4RWYAAUvd6.jpg'],TweetDeck,,,
-95,2022-02-16 20:59:44+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"The Future of the Royal Navy: 
+Via @PeterFerrary https://t.co/aXEUfJcrTm",en,,['https://pbs.twimg.com/media/FLyJF4RWYAAUvd6.jpg'],
+2022-02-16 20:59:44+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"The Future of the Royal Navy: 
 A Conversation with @FirstSeaLord Adm Ben Key @CSIS
 
-https://t.co/ybMfZ5mdxk https://t.co/LPCEZ9aQ8E",en,,['https://pbs.twimg.com/media/FLvyErNXoAcLrXp.jpg'],TweetDeck,,,
-96,2022-02-16 19:51:56+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDuncan alongside in the gloom today.
+https://t.co/ybMfZ5mdxk https://t.co/LPCEZ9aQ8E",en,,['https://pbs.twimg.com/media/FLvyErNXoAcLrXp.jpg'],
+2022-02-16 19:51:56+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDuncan alongside in the gloom today.
 
-Via @georgeemmett8 https://t.co/u1BAU0q0V4",en,,['https://pbs.twimg.com/media/FLviiTFXsAA22Nw.jpg'],TweetDeck,,,
-97,2022-02-15 08:54:31+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Medway off English Harbour 🇦🇬Antigua 
+Via @georgeemmett8 https://t.co/u1BAU0q0V4",en,,['https://pbs.twimg.com/media/FLviiTFXsAA22Nw.jpg'],
+2022-02-15 08:54:31+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Medway off English Harbour 🇦🇬Antigua 
 
-Via @pdhudson1 https://t.co/d7NPObi2sR",en,,['https://pbs.twimg.com/media/FLoCgeUXEAM7VXL.jpg'],TweetDeck,,,
-98,2022-02-15 08:37:29+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon taken into 3 Basin yesterday to begin major refit.
+Via @pdhudson1 https://t.co/d7NPObi2sR",en,,['https://pbs.twimg.com/media/FLoCgeUXEAM7VXL.jpg'],
+2022-02-15 08:37:29+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon taken into 3 Basin yesterday to begin major refit.
 
-Via @AWenham1 https://t.co/UV4dVToA6b",en,,['https://pbs.twimg.com/media/FLn-lccXoAIHcGb.jpg'],TweetDeck,,,
-99,2022-02-14 12:42:43+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@RFAFortVictoria @wolfie250 .@RFAFortVictoria Inbound to Glen Mallan on Loch Long.
+Via @AWenham1 https://t.co/UV4dVToA6b",en,,['https://pbs.twimg.com/media/FLn-lccXoAIHcGb.jpg'],
+2022-02-14 12:42:43+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@RFAFortVictoria @wolfie250 .@RFAFortVictoria Inbound to Glen Mallan on Loch Long.
 
-Via @SheilaLWeir https://t.co/cEYLDsD9X5",en,,['https://pbs.twimg.com/media/FLjtJo5XsAEh4UF.jpg'],TweetDeck,,,
-100,2022-02-14 11:59:56+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria in the Firth of Clyde this morning.
+Via @SheilaLWeir https://t.co/cEYLDsD9X5",en,,['https://pbs.twimg.com/media/FLjtJo5XsAEh4UF.jpg'],
+2022-02-14 11:59:56+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria in the Firth of Clyde this morning.
 
-Via @wolfie250 https://t.co/N51JsbiQ02",en,,['https://pbs.twimg.com/media/FLjjWk0WQAYVfjL.jpg'],TweetDeck,,,
-101,2022-02-14 10:58:22+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@HMSLANCASTER @AWenham1 Outbound this morning. 
+Via @wolfie250 https://t.co/N51JsbiQ02",en,,['https://pbs.twimg.com/media/FLjjWk0WQAYVfjL.jpg'],
+2022-02-14 10:58:22+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@HMSLANCASTER @AWenham1 Outbound this morning. 
 
-Via @PortsmouthProud https://t.co/w38XgV2BgY",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1493177637732298758/pu/img/4K8pzw9l2xp-phbc.jpg'],TweetDeck,,,
-102,2022-02-14 10:48:31+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"MV Hurst point in the Solent inbound to Marchwood this morning.
+Via @PortsmouthProud https://t.co/w38XgV2BgY",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1493177637732298758/pu/img/4K8pzw9l2xp-phbc.jpg'],
+2022-02-14 10:48:31+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"MV Hurst point in the Solent inbound to Marchwood this morning.
 
-Via @georgeemmett8 https://t.co/JLnscvj1j9",en,,['https://pbs.twimg.com/media/FLjS6slXwAEoTFb.jpg'],TweetDeck,,,
-103,2022-02-14 09:51:45+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@Martlgn @bigshamonka https://t.co/lFGv7tpt91,und,,['https://pbs.twimg.com/media/FLjGA5KXIAIBKaP.jpg'],TweetDeck,,,
-104,2022-02-14 08:37:17+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Medway alongside in St Johns 🇦🇬Antigua yesterday.
+Via @georgeemmett8 https://t.co/JLnscvj1j9",en,,['https://pbs.twimg.com/media/FLjS6slXwAEoTFb.jpg'],
+2022-02-14 09:51:45+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@Martlgn @bigshamonka https://t.co/lFGv7tpt91,und,,['https://pbs.twimg.com/media/FLjGA5KXIAIBKaP.jpg'],
+2022-02-14 08:37:17+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Medway alongside in St Johns 🇦🇬Antigua yesterday.
 
-via @pdhudson1 https://t.co/otgollwrgS",en,,['https://pbs.twimg.com/media/FLi0-CsXEAIPaz1.jpg'],TweetDeck,,,
-105,2022-02-14 07:46:55+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER alongside in Portsmouth this weekend. Due to sail this morning.
+via @pdhudson1 https://t.co/otgollwrgS",en,,['https://pbs.twimg.com/media/FLi0-CsXEAIPaz1.jpg'],
+2022-02-14 07:46:55+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER alongside in Portsmouth this weekend. Due to sail this morning.
 
-Via @AWenham1 https://t.co/ehMkarzYqh",en,,['https://pbs.twimg.com/media/FLipcfQXwAYuYNe.jpg'],TweetDeck,,,
-106,2022-02-14 07:42:39+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_tamar arriving in Yokosuka, 🇯🇵Japan this morning.
+Via @AWenham1 https://t.co/ehMkarzYqh",en,,['https://pbs.twimg.com/media/FLipcfQXwAYuYNe.jpg'],
+2022-02-14 07:42:39+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_tamar arriving in Yokosuka, 🇯🇵Japan this morning.
 
-Via @svXwunjkknbmZYw @WarshipCam https://t.co/rzF4vuDHch",en,,['https://pbs.twimg.com/media/FLioaINXoAYAh6b.jpg'],TweetDeck,,,
-107,2022-02-13 19:26:27+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Current news article:
+Via @svXwunjkknbmZYw @WarshipCam https://t.co/rzF4vuDHch",en,,['https://pbs.twimg.com/media/FLioaINXoAYAh6b.jpg'],
+2022-02-13 19:26:27+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Current news article:
 
 The Royal Navy’s Type 45 destroyers – status report
 
-https://t.co/uf2WCFRyTv https://t.co/yaaqdxQMYw",en,,['https://pbs.twimg.com/media/FLf_7dRXIAQO3t9.jpg'],TweetDeck,,,
-108,2022-02-13 14:39:23+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern arrives home in foul weather this afternoon.
+https://t.co/uf2WCFRyTv https://t.co/yaaqdxQMYw",en,,['https://pbs.twimg.com/media/FLf_7dRXIAQO3t9.jpg'],
+2022-02-13 14:39:23+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern arrives home in foul weather this afternoon.
 
-Via @RNPics_ https://t.co/xqt30F3wBv",en,,['https://pbs.twimg.com/media/FLe-RYIXwAkvp2X.jpg'],TweetDeck,,,
-109,2022-02-13 10:15:34+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"The view from @RFALymeBay during #IMX22 PHOTEX 
+Via @RNPics_ https://t.co/xqt30F3wBv",en,,['https://pbs.twimg.com/media/FLe-RYIXwAkvp2X.jpg'],
+2022-02-13 10:15:34+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"The view from @RFALymeBay during #IMX22 PHOTEX 
 
 @HMSBangor 
-@HMSMontrose @HMSChiddingfold @hms_pembroke https://t.co/CAqLswpXts",en,['IMX22'],['https://pbs.twimg.com/media/FLeAsFRWYAA3aEi.jpg'],TweetDeck,,,
-110,2022-02-12 19:00:36+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATidesurge conducts RAS with @RFAFortVictoria https://t.co/Tk9XSH9QIh,en,,['https://pbs.twimg.com/media/FLaweq6WQAcJRaM.jpg'],Twitter for iPhone,,,
-111,2022-02-12 12:23:07+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine back out again on blustery Firth of Clyde this morning 
+@HMSMontrose @HMSChiddingfold @hms_pembroke https://t.co/CAqLswpXts",en,['IMX22'],['https://pbs.twimg.com/media/FLeAsFRWYAA3aEi.jpg'],
+2022-02-12 19:00:36+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATidesurge conducts RAS with @RFAFortVictoria https://t.co/Tk9XSH9QIh,en,,['https://pbs.twimg.com/media/FLaweq6WQAcJRaM.jpg'],
+2022-02-12 12:23:07+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine back out again on blustery Firth of Clyde this morning 
 
-via @SheilaLWeir https://t.co/QxShZ29E83",en,,['https://pbs.twimg.com/media/FLZVaoYXoAAYW0L.jpg'],TweetDeck,,,
-112,2022-02-12 11:29:41+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Kent arrived in Dover yesterday for a weekend visit  hosting affiliates on board.
+via @SheilaLWeir https://t.co/QxShZ29E83",en,,['https://pbs.twimg.com/media/FLZVaoYXoAAYW0L.jpg'],
+2022-02-12 11:29:41+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Kent arrived in Dover yesterday for a weekend visit  hosting affiliates on board.
 
-Photo @TS_Invicta https://t.co/UsuX3HmTBC",en,,['https://pbs.twimg.com/media/FLZJOEuX0AMrZm_.jpg'],TweetDeck,,,
-113,2022-02-12 11:15:58+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"RN Fleet Commander @VAdmAndrewBurns
-visits the @RNGibSqn and HMS Cutlass in #Gibraltar https://t.co/Bd86f1Szu0",en,['Gibraltar'],['https://pbs.twimg.com/media/FLZGE-rXMAY9RaO.jpg'],TweetDeck,,,
-114,2022-02-12 10:18:46+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT inbound on choppy Clyde this morning
+Photo @TS_Invicta https://t.co/UsuX3HmTBC",en,,['https://pbs.twimg.com/media/FLZJOEuX0AMrZm_.jpg'],
+2022-02-12 11:15:58+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"RN Fleet Commander @VAdmAndrewBurns
+visits the @RNGibSqn and HMS Cutlass in #Gibraltar https://t.co/Bd86f1Szu0",en,['Gibraltar'],['https://pbs.twimg.com/media/FLZGE-rXMAY9RaO.jpg'],
+2022-02-12 10:18:46+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT inbound on choppy Clyde this morning
 
-Via @SheilaLWeir https://t.co/4SWgUohssQ",en,,['https://pbs.twimg.com/media/FLY4_6JWYAEN58n.jpg'],TweetDeck,,,
-115,2022-02-11 19:34:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSTrent conducts full power trial in the Mediterranean. 24+ knots https://t.co/pkU10bBBNW,en,,['https://pbs.twimg.com/ext_tw_video_thumb/1492220448561635331/pu/img/r4aWaTDxdgwEaAUp.jpg'],TweetDeck,,,
-116,2022-02-11 16:46:47+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸 USNS Laramie on the Clyde this afternoon
+Via @SheilaLWeir https://t.co/4SWgUohssQ",en,,['https://pbs.twimg.com/media/FLY4_6JWYAEN58n.jpg'],
+2022-02-11 19:34:54+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSTrent conducts full power trial in the Mediterranean. 24+ knots https://t.co/pkU10bBBNW,en,,['https://pbs.twimg.com/ext_tw_video_thumb/1492220448561635331/pu/img/r4aWaTDxdgwEaAUp.jpg'],
+2022-02-11 16:46:47+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸 USNS Laramie on the Clyde this afternoon
 
- Via @SheilaLWeir https://t.co/wBU5LutdaI",en,,['https://pbs.twimg.com/media/FLVIQVhXMAUFRfC.jpg'],TweetDeck,,,
-117,2022-02-11 16:41:26+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@BAES_Maritime https://t.co/CC1Ml4rMVf,und,,['https://pbs.twimg.com/media/FLVGzfXXwAA-qRl.jpg'],TweetDeck,,,
-118,2022-02-11 14:43:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @originalnameM: https://t.co/mbQlJ8eOHX,und,,['https://pbs.twimg.com/media/FLSDTWvXoAIDiC8.jpg'],TweetDeck,,,
-119,2022-02-11 13:22:11+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFAFortVictoria outbound from Devonport this afternoon. https://t.co/Wsy9QtDmHl,en,,['https://pbs.twimg.com/media/FLUZaggWQAQ8pdP.jpg'],TweetDeck,,,
-120,2022-02-11 13:13:24+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAWaveKnight outbound from the Clyde yesterday evening. Currently off north coast of Cornwall
+ Via @SheilaLWeir https://t.co/wBU5LutdaI",en,,['https://pbs.twimg.com/media/FLVIQVhXMAUFRfC.jpg'],
+2022-02-11 16:41:26+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@BAES_Maritime https://t.co/CC1Ml4rMVf,und,,['https://pbs.twimg.com/media/FLVGzfXXwAA-qRl.jpg'],
+2022-02-11 14:43:54+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @originalnameM: https://t.co/mbQlJ8eOHX,und,,['https://pbs.twimg.com/media/FLSDTWvXoAIDiC8.jpg'],
+2022-02-11 13:22:11+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFAFortVictoria outbound from Devonport this afternoon. https://t.co/Wsy9QtDmHl,en,,['https://pbs.twimg.com/media/FLUZaggWQAQ8pdP.jpg'],
+2022-02-11 13:13:24+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAWaveKnight outbound from the Clyde yesterday evening. Currently off north coast of Cornwall
 
-Via @CaptAliClack https://t.co/Jv2cMdwaZG",en,,['https://pbs.twimg.com/media/FLUXX1JX0AAA7Pt.jpg'],TweetDeck,,,
-121,2022-02-11 11:31:34+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland inbound to Devonport this morning.
+Via @CaptAliClack https://t.co/Jv2cMdwaZG",en,,['https://pbs.twimg.com/media/FLUXX1JX0AAA7Pt.jpg'],
+2022-02-11 11:31:34+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland inbound to Devonport this morning.
 
-Via @Rockhoppas https://t.co/cClsbZJG2K",en,,['https://pbs.twimg.com/media/FLUAGLnWQAM1EdG.jpg'],TweetDeck,,,
-122,2022-02-11 09:53:00+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER returns to Portsmouth this morning.
+Via @Rockhoppas https://t.co/cClsbZJG2K",en,,['https://pbs.twimg.com/media/FLUAGLnWQAM1EdG.jpg'],
+2022-02-11 09:53:00+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER returns to Portsmouth this morning.
 
-Via @PortsmouthProud https://t.co/RxuGAFn8Hh",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1492074139477319691/pu/img/usm2y4ZMIfwIdcN6.jpg'],TweetDeck,,,
-123,2022-02-10 10:16:32+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"The PM has just confirmed the UK is to send a Type 45 destroyer to the Black Sea. 
+Via @PortsmouthProud https://t.co/RxuGAFn8Hh",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1492074139477319691/pu/img/usm2y4ZMIfwIdcN6.jpg'],
+2022-02-10 10:16:32+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"The PM has just confirmed the UK is to send a Type 45 destroyer to the Black Sea. 
 
-Most likely @hmsdiamond https://t.co/8JxptJ5TsF",en,,['https://pbs.twimg.com/media/FLOlTxQWQAwQYyq.jpg'],TweetDeck,,,
-124,2022-02-10 09:56:03+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸USS Harry S. Truman
+Most likely @hmsdiamond https://t.co/8JxptJ5TsF",en,,['https://pbs.twimg.com/media/FLOlTxQWQAwQYyq.jpg'],
+2022-02-10 09:56:03+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸USS Harry S. Truman
 🇮🇹ITS Cavour  
 🇫🇷FS Charles de Gaulle 
 
- In the Mediterranean 6/2/22 https://t.co/hsGXo3uGfe",en,,['https://pbs.twimg.com/media/FLOgoKAX0AMalG1.jpg'],TweetDeck,,,
-125,2022-02-09 20:17:40+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Dusk departure.
+ In the Mediterranean 6/2/22 https://t.co/hsGXo3uGfe",en,,['https://pbs.twimg.com/media/FLOgoKAX0AMalG1.jpg'],
+2022-02-09 20:17:40+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Dusk departure.
 
 @hms_kent sails from Portsmouth this evening.
 
-Via @PortsmouthProud https://t.co/x5czdDijv9",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1491505349047853071/pu/img/YLLlqwNSD0TyqGRO.jpg'],TweetDeck,,,
-126,2022-02-08 11:27:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine inbound to Faslane today.
+Via @PortsmouthProud https://t.co/x5czdDijv9",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1491505349047853071/pu/img/YLLlqwNSD0TyqGRO.jpg'],
+2022-02-08 11:27:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine inbound to Faslane today.
 
-Via @SheilaLWeir https://t.co/AbXV24nWzt",en,,['https://pbs.twimg.com/media/FLEiMcUXEAUzLe6.jpg'],TweetDeck,,,
-127,2022-02-08 08:05:56+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATiderace conducts night RAS with 🇳🇱HNLMS Karel Doorman during @FOST serials off the South Coast. https://t.co/Ny91lljSGO,en,,['https://pbs.twimg.com/media/FLD0Of-XIAAow6_.jpg'],TweetDeck,,,
-128,2022-02-07 18:04:23+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Aircraft Carrier Passenger Transfer boats Walrus and Sea Fury left Portsmouth today. 
+Via @SheilaLWeir https://t.co/AbXV24nWzt",en,,['https://pbs.twimg.com/media/FLEiMcUXEAUzLe6.jpg'],
+2022-02-08 08:05:56+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATiderace conducts night RAS with 🇳🇱HNLMS Karel Doorman during @FOST serials off the South Coast. https://t.co/Ny91lljSGO,en,,['https://pbs.twimg.com/media/FLD0Of-XIAAow6_.jpg'],
+2022-02-07 18:04:23+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Aircraft Carrier Passenger Transfer boats Walrus and Sea Fury left Portsmouth today. 
 
-Via @PortsmouthProud https://t.co/zVdLySFBGW",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1490747665214324740/pu/img/j8s8q9dPssaepe8p.jpg'],TweetDeck,,,
-129,2022-02-07 12:39:50+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSHurworth outbound from Portsmouth this morning.
+Via @PortsmouthProud https://t.co/zVdLySFBGW",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1490747665214324740/pu/img/j8s8q9dPssaepe8p.jpg'],
+2022-02-07 12:39:50+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSHurworth outbound from Portsmouth this morning.
 
-Via @scottyc298 https://t.co/AIod3jExw9",en,,['https://pbs.twimg.com/media/FK_pYJIXEAINpSV.jpg'],TweetDeck,,,
-130,2022-02-07 12:33:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland outbound from Devonport this morning after maintenance period
+Via @scottyc298 https://t.co/AIod3jExw9",en,,['https://pbs.twimg.com/media/FK_pYJIXEAINpSV.jpg'],
+2022-02-07 12:33:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPortland outbound from Devonport this morning after maintenance period
 
-Via: Lewis Hunter https://t.co/OeQq9GIr65",en,,['https://pbs.twimg.com/media/FK_n38FXIAgPW2N.jpg'],TweetDeck,,,
-131,2022-02-07 10:12:13+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@kon_marine 🇳🇱HNLMS Karel Doorman outbound from Devonport this morning for further @FOST serials. https://t.co/WtPzvHoNT5,en,,['https://pbs.twimg.com/media/FK_Hjf6WQAEk-um.jpg'],TweetDeck,,,
-132,2022-02-07 10:09:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent currently on NATO Maritime Security Operations in the Eastern Mediterranean.
+Via: Lewis Hunter https://t.co/OeQq9GIr65",en,,['https://pbs.twimg.com/media/FK_n38FXIAgPW2N.jpg'],
+2022-02-07 10:12:13+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@kon_marine 🇳🇱HNLMS Karel Doorman outbound from Devonport this morning for further @FOST serials. https://t.co/WtPzvHoNT5,en,,['https://pbs.twimg.com/media/FK_Hjf6WQAEk-um.jpg'],
+2022-02-07 10:09:54+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent currently on NATO Maritime Security Operations in the Eastern Mediterranean.
 
-#SeaGuardian https://t.co/EaDJB3mhQa",en,['SeaGuardian'],['https://pbs.twimg.com/ext_tw_video_thumb/1490628675284389899/pu/img/Ve4MVKn3yYipFwkQ.jpg'],TweetDeck,,,
-133,2022-02-07 09:56:47+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSDragon @HMSDefender @hmsdiamond @HMSDuncan @scottyc298 Via @PortsmouthProud https://t.co/jDuJGjIWgV,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1490625541170515970/pu/img/oPWCP8kRmzv8mdpP.jpg'],TweetDeck,,,
-134,2022-02-07 09:19:14+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@naval_service 🇺🇸USS Roosevelt  shadowing the Ustinov at a distance of about 5 miles https://t.co/dYIjvd4lqN,en,,['https://pbs.twimg.com/media/FK-7dsYXwAIdGbV.jpg'],TweetDeck,,,
-135,2022-02-06 18:34:43+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine back out to sea after brief visit to Loch Long today.
+#SeaGuardian https://t.co/EaDJB3mhQa",en,['SeaGuardian'],['https://pbs.twimg.com/ext_tw_video_thumb/1490628675284389899/pu/img/Ve4MVKn3yYipFwkQ.jpg'],
+2022-02-07 09:56:47+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSDragon @HMSDefender @hmsdiamond @HMSDuncan @scottyc298 Via @PortsmouthProud https://t.co/jDuJGjIWgV,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1490625541170515970/pu/img/oPWCP8kRmzv8mdpP.jpg'],
+2022-02-07 09:19:14+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@naval_service 🇺🇸USS Roosevelt  shadowing the Ustinov at a distance of about 5 miles https://t.co/dYIjvd4lqN,en,,['https://pbs.twimg.com/media/FK-7dsYXwAIdGbV.jpg'],
+2022-02-06 18:34:43+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine back out to sea after brief visit to Loch Long today.
 
-Via @@MichaelJWC626 https://t.co/FzgOOjoC9z",en,,['https://pbs.twimg.com/media/FK7w_vZXsAABMov.jpg'],TweetDeck,,,
-136,2022-02-06 18:31:26+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATideforce now alongside in Portland after leaving Merseyside on Friday. https://t.co/lZPeMFg6M2,en,,['https://pbs.twimg.com/media/FK7wPURWQAQQd3Y.jpg'],TweetDeck,,,
-137,2022-02-06 08:49:23+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine inbound on the Clyde this morning.
+Via @@MichaelJWC626 https://t.co/FzgOOjoC9z",en,,['https://pbs.twimg.com/media/FK7w_vZXsAABMov.jpg'],
+2022-02-06 18:31:26+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATideforce now alongside in Portland after leaving Merseyside on Friday. https://t.co/lZPeMFg6M2,en,,['https://pbs.twimg.com/media/FK7wPURWQAQQd3Y.jpg'],
+2022-02-06 08:49:23+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine inbound on the Clyde this morning.
 
-Via @SheilaLWeir https://t.co/gJLLDFbEcz",en,,['https://pbs.twimg.com/media/FK5rCVZXwAAtcsF.jpg'],TweetDeck,,,
-138,2022-02-05 14:39:58+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@RFACardiganBay @RFAMountsBay @scottyc298 Crew’s cars embarked 🚗🚙🚗
-@RFACardiganBay https://t.co/sEmxzL40ES",en,,['https://pbs.twimg.com/media/FK1xrs8WYAQErw0.jpg'],TweetDeck,,,
-139,2022-02-05 14:05:39+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFACardiganBay out of refit in Falmouth and joining 
+Via @SheilaLWeir https://t.co/gJLLDFbEcz",en,,['https://pbs.twimg.com/media/FK5rCVZXwAAtcsF.jpg'],
+2022-02-05 14:39:58+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@RFACardiganBay @RFAMountsBay @scottyc298 Crew’s cars embarked 🚗🚙🚗
+@RFACardiganBay https://t.co/sEmxzL40ES",en,,['https://pbs.twimg.com/media/FK1xrs8WYAQErw0.jpg'],
+2022-02-05 14:05:39+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFACardiganBay out of refit in Falmouth and joining 
 @RFAMountsBay in Portland today.
 
-Via @scottyc298 https://t.co/I4qASpDgAY",en,,['https://pbs.twimg.com/media/FK1jHFPXoAY48qF.jpg'],TweetDeck,,,
-140,2022-02-05 08:49:11+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSGrimsby off Gourock in the Firth of Clyde yesterday
+Via @scottyc298 https://t.co/I4qASpDgAY",en,,['https://pbs.twimg.com/media/FK1jHFPXoAY48qF.jpg'],
+2022-02-05 08:49:11+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSGrimsby off Gourock in the Firth of Clyde yesterday
 
-Via @wolfie250 https://t.co/nCOZ9bOYB3",en,,['https://pbs.twimg.com/media/FK0hPRwXEAAIaz6.jpg'],TweetDeck,,,
-141,2022-02-05 07:45:48+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon departing Glen Mallan last night.
+Via @wolfie250 https://t.co/nCOZ9bOYB3",en,,['https://pbs.twimg.com/media/FK0hPRwXEAAIaz6.jpg'],
+2022-02-05 07:45:48+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon departing Glen Mallan last night.
 
-Via @MichaelJWC626 https://t.co/ZhIM2Gjy54",en,,['https://pbs.twimg.com/media/FK0S4onWQAIhqn9.jpg'],TweetDeck,,,
-142,2022-02-04 19:13:37+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@ArgyllSeaGlass Cold move. Via @wolfie250 https://t.co/L19hHpvfXS,en,,['https://pbs.twimg.com/media/FKxmvIyXIAYrBSZ.jpg'],TweetDeck,,,
-143,2022-02-04 19:09:09+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAWaveKnight at at Loch Striven fuel jetty having returned from the Caribbean last week.
+Via @MichaelJWC626 https://t.co/ZhIM2Gjy54",en,,['https://pbs.twimg.com/media/FK0S4onWQAIhqn9.jpg'],
+2022-02-04 19:13:37+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@ArgyllSeaGlass Cold move. Via @wolfie250 https://t.co/L19hHpvfXS,en,,['https://pbs.twimg.com/media/FKxmvIyXIAYrBSZ.jpg'],
+2022-02-04 19:09:09+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAWaveKnight at at Loch Striven fuel jetty having returned from the Caribbean last week.
 
-Via @wolfie250 https://t.co/vHyOcWdhVe",en,,['https://pbs.twimg.com/media/FKxltBKXMAcXlKo.jpg'],TweetDeck,,,
-144,2022-02-04 14:35:31+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSPWLS @scottyc298 Via @PortsmouthProud https://t.co/pGVPxi6Aur,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1489608420693008384/pu/img/T4aXpg73zKUwuxag.jpg'],TweetDeck,,,
-145,2022-02-04 14:22:57+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATiderace comes to buoy in Plymouth Sound this afternoon.
+Via @wolfie250 https://t.co/vHyOcWdhVe",en,,['https://pbs.twimg.com/media/FKxltBKXMAcXlKo.jpg'],
+2022-02-04 14:35:31+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSPWLS @scottyc298 Via @PortsmouthProud https://t.co/pGVPxi6Aur,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1489608420693008384/pu/img/T4aXpg73zKUwuxag.jpg'],
+2022-02-04 14:22:57+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATiderace comes to buoy in Plymouth Sound this afternoon.
 
-Via @Rockhoppas https://t.co/kBd0rZNrHT",en,,['https://pbs.twimg.com/media/FKwkNKHXsA4iq1v.jpg'],TweetDeck,,,
-146,2022-02-04 10:20:47+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"SD Northern River outbound from Portsmouth this morning.
+Via @Rockhoppas https://t.co/kBd0rZNrHT",en,,['https://pbs.twimg.com/media/FKwkNKHXsA4iq1v.jpg'],
+2022-02-04 10:20:47+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"SD Northern River outbound from Portsmouth this morning.
 
-Via @scottyc298 https://t.co/YOActNcwcy",en,,['https://pbs.twimg.com/media/FKvsxrFXwAIM6H7.jpg'],TweetDeck,,,
-147,2022-02-04 10:08:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER at anchor inside Plymouth Breakwater this morning @FOST 
+Via @scottyc298 https://t.co/YOActNcwcy",en,,['https://pbs.twimg.com/media/FKvsxrFXwAIM6H7.jpg'],
+2022-02-04 10:08:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER at anchor inside Plymouth Breakwater this morning @FOST 
 
-Via @Rockhoppas https://t.co/WN7cnmrXx0",en,,['https://pbs.twimg.com/media/FKvp3F9XMAAE4_j.jpg'],TweetDeck,,,
-148,2022-02-04 10:05:28+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon heading to Loch Long 31/1/22
+Via @Rockhoppas https://t.co/WN7cnmrXx0",en,,['https://pbs.twimg.com/media/FKvp3F9XMAAE4_j.jpg'],
+2022-02-04 10:05:28+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon heading to Loch Long 31/1/22
 
-Via @lizc177 https://t.co/capzFkrJHu",en,,['https://pbs.twimg.com/media/FKvpNcJXIAAfenj.jpg'],TweetDeck,,,
-149,2022-02-04 09:35:27+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Wildcat with inert Sea Venom missiles conducting flight trials - (Yeovil, late 2021)
+Via @lizc177 https://t.co/capzFkrJHu",en,,['https://pbs.twimg.com/media/FKvpNcJXIAAfenj.jpg'],
+2022-02-04 09:35:27+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Wildcat with inert Sea Venom missiles conducting flight trials - (Yeovil, late 2021)
 
-Via: Ian Harding https://t.co/2hFTVCkxYz",en,,['https://pbs.twimg.com/media/FKviXBRXMAETtJm.jpg'],TweetDeck,,,
-150,2022-02-03 18:56:47+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@IrishAirCorps @naval_service .@hms_argyll 
+Via: Ian Harding https://t.co/2hFTVCkxYz",en,,['https://pbs.twimg.com/media/FKviXBRXMAETtJm.jpg'],
+2022-02-03 18:56:47+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@IrishAirCorps @naval_service .@hms_argyll 
 
-Via @IrishAirCorps https://t.co/Qo2dZyuUKu",und,,['https://pbs.twimg.com/media/FKsZSPCXEAIeEAZ.jpg'],TweetDeck,,,
-151,2022-02-03 15:14:37+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"HMS Cutlass at Gibraltar this afternoon.
+Via @IrishAirCorps https://t.co/Qo2dZyuUKu",und,,['https://pbs.twimg.com/media/FKsZSPCXEAIeEAZ.jpg'],
+2022-02-03 15:14:37+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"HMS Cutlass at Gibraltar this afternoon.
 
 Not yet formally commissioned into the RN.
 
-Via @Cumpgib https://t.co/1EtrF8XHAJ",en,,['https://pbs.twimg.com/media/FKrmcBFUYAQd0cH.jpg'],TweetDeck,,,
-152,2022-02-03 13:39:04+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@RFATideforce @CammellLaird .@RFATideforce out of the shipyard and heading out into Liverpool Bay
+Via @Cumpgib https://t.co/1EtrF8XHAJ",en,,['https://pbs.twimg.com/media/FKrmcBFUYAQd0cH.jpg'],
+2022-02-03 13:39:04+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@RFATideforce @CammellLaird .@RFATideforce out of the shipyard and heading out into Liverpool Bay
 
-Via @Streetgang42 https://t.co/x1rvHFBQHl",en,,['https://pbs.twimg.com/media/FKrQdwmXwAEmkH2.jpg'],TweetDeck,,,
-153,2022-02-03 12:20:59+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATideforce leaving the wet basin at @CammellLaird today ahead of starting post-refit sea trials. https://t.co/aUNoY1G125,en,,['https://pbs.twimg.com/media/FKq-sR-XsAMSHr_.jpg'],TweetDeck,,,
-154,2022-02-03 10:13:02+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMS_Spey operates with 🇺🇸USS Sampson and US Coast Guard Cutter Stratton off 🇹🇴Tonga 30/1/22 https://t.co/sptHiWxFoH,en,,['https://pbs.twimg.com/media/FKqhTnSXEAAnvc7.jpg'],TweetDeck,,,
-155,2022-02-03 09:45:52+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"50 Calibre heavy machine gun 
+Via @Streetgang42 https://t.co/x1rvHFBQHl",en,,['https://pbs.twimg.com/media/FKrQdwmXwAEmkH2.jpg'],
+2022-02-03 12:20:59+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFATideforce leaving the wet basin at @CammellLaird today ahead of starting post-refit sea trials. https://t.co/aUNoY1G125,en,,['https://pbs.twimg.com/media/FKq-sR-XsAMSHr_.jpg'],
+2022-02-03 10:13:02+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMS_Spey operates with 🇺🇸USS Sampson and US Coast Guard Cutter Stratton off 🇹🇴Tonga 30/1/22 https://t.co/sptHiWxFoH,en,,['https://pbs.twimg.com/media/FKqhTnSXEAAnvc7.jpg'],
+2022-02-03 09:45:52+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"50 Calibre heavy machine gun 
 V 
 the killer tomato 
 
-@HMSPWLS 29/1/22 https://t.co/IWq3NomqxE",en,,['https://pbs.twimg.com/media/FKqbKczWYAAWk1P.jpg'],TweetDeck,,,
-156,2022-02-03 09:41:32+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@27_Sqn Chinook squeezes onto the aircraft lift @HMSPWLS 31/1/22
+@HMSPWLS 29/1/22 https://t.co/IWq3NomqxE",en,,['https://pbs.twimg.com/media/FKqbKczWYAAWk1P.jpg'],
+2022-02-03 09:41:32+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@27_Sqn Chinook squeezes onto the aircraft lift @HMSPWLS 31/1/22
 
-Sadly non-folding rotor blades 🙁 https://t.co/rKWUGYXHFh",en,,['https://pbs.twimg.com/media/FKqZzZ8XsAASdZK.jpg'],TweetDeck,,,
-157,2022-02-02 15:44:41+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"MV Hurst Point outbound from Devonport this afternoon.
+Sadly non-folding rotor blades 🙁 https://t.co/rKWUGYXHFh",en,,['https://pbs.twimg.com/media/FKqZzZ8XsAASdZK.jpg'],
+2022-02-02 15:44:41+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"MV Hurst Point outbound from Devonport this afternoon.
 
 🇳🇱HNLMS Karel Doorman beyond the Breakwater
 
-Via @Rockhoppas https://t.co/3CvfiHA3bJ",en,,['https://pbs.twimg.com/media/FKmju2wWUAERmKe.jpg'],TweetDeck,,,
-158,2022-02-02 15:31:51+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ winding ship in Portsmouth this morning - back to starboard side to the Jetty.
+Via @Rockhoppas https://t.co/3CvfiHA3bJ",en,,['https://pbs.twimg.com/media/FKmju2wWUAERmKe.jpg'],
+2022-02-02 15:31:51+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ winding ship in Portsmouth this morning - back to starboard side to the Jetty.
 
-Via @dhartley_NMRN https://t.co/nycENx5XxZ",en,,['https://pbs.twimg.com/media/FKmgnAiX0AIioFl.jpg'],TweetDeck,,,
-159,2022-02-02 14:35:22+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,🇺🇸USS Roosevelt exercises with @HMSDragon in the North Atlantic. 29/1/22 https://t.co/SAX9lVlnlK,en,,['https://pbs.twimg.com/media/FKmTv-dXoAIKJ-w.jpg'],TweetDeck,,,
-160,2022-02-01 18:49:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Royal Navy surface escorts - Snapshot, 1 Feb 2022 https://t.co/8KLgV2aCPT",en,,['https://pbs.twimg.com/media/FKiEXOpXoAA3ENa.jpg'],TweetDeck,,,
-161,2022-02-01 11:26:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_albion outbound from Devonport yesterday. Seen from @RFAFortVictoria
+Via @dhartley_NMRN https://t.co/nycENx5XxZ",en,,['https://pbs.twimg.com/media/FKmgnAiX0AIioFl.jpg'],
+2022-02-02 14:35:22+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,🇺🇸USS Roosevelt exercises with @HMSDragon in the North Atlantic. 29/1/22 https://t.co/SAX9lVlnlK,en,,['https://pbs.twimg.com/media/FKmTv-dXoAIKJ-w.jpg'],
+2022-02-01 18:49:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Royal Navy surface escorts - Snapshot, 1 Feb 2022 https://t.co/8KLgV2aCPT",en,,['https://pbs.twimg.com/media/FKiEXOpXoAA3ENa.jpg'],
+2022-02-01 11:26:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_albion outbound from Devonport yesterday. Seen from @RFAFortVictoria
 
-Via: rbettley https://t.co/gEzj0yBeum",en,,['https://pbs.twimg.com/media/FKge_e6WQAEOHoN.jpg'],TweetDeck,,,
-162,2022-02-01 09:56:28+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Russian Navy adds to pressure on Ukraine and NATO
+Via: rbettley https://t.co/gEzj0yBeum",en,,['https://pbs.twimg.com/media/FKge_e6WQAEOHoN.jpg'],
+2022-02-01 09:56:28+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Russian Navy adds to pressure on Ukraine and NATO
 
-https://t.co/tmucCgYpkH https://t.co/8ImS3kEETN",en,,['https://pbs.twimg.com/media/FKgKbKqWUAgf_MZ.jpg'],TweetDeck,,,
-163,2022-02-01 08:02:41+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLedbury outbound from Portsmouth yesterday
+https://t.co/tmucCgYpkH https://t.co/8ImS3kEETN",en,,['https://pbs.twimg.com/media/FKgKbKqWUAgf_MZ.jpg'],
+2022-02-01 08:02:41+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLedbury outbound from Portsmouth yesterday
 
-Via @georgeemmett8 https://t.co/opRhZHWlkw",en,,['https://pbs.twimg.com/media/FKfwZFsWYAAWjNa.jpg'],TweetDeck,,,
-164,2022-01-31 16:56:48+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest news commentary:
+Via @georgeemmett8 https://t.co/opRhZHWlkw",en,,['https://pbs.twimg.com/media/FKfwZFsWYAAWjNa.jpg'],
+2022-01-31 16:56:48+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest news commentary:
 
 Russian Navy adds to pressure on Ukraine and NATO
 
-https://t.co/tmucCgXRv9 https://t.co/JyQklsEYTH",en,,['https://pbs.twimg.com/media/FKcggk2XIAIvmkn.jpg'],TweetDeck,,,
-165,2022-01-31 15:47:03+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Kent flying the NATO flag as part of #SNMG1
+https://t.co/tmucCgXRv9 https://t.co/JyQklsEYTH",en,,['https://pbs.twimg.com/media/FKcggk2XIAIvmkn.jpg'],
+2022-01-31 15:47:03+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Kent flying the NATO flag as part of #SNMG1
 
-Via @COM_SNMG1 https://t.co/Hs09dCHM0Z",en,['SNMG1'],['https://pbs.twimg.com/media/FKcQuUiWYAI0Hz1.jpg'],TweetDeck,,,
-166,2022-01-31 13:45:23+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"RAF Chinook of @27_Sqn made the 1000th deck landing on @HMSPWLS 
+Via @COM_SNMG1 https://t.co/Hs09dCHM0Z",en,['SNMG1'],['https://pbs.twimg.com/media/FKcQuUiWYAI0Hz1.jpg'],
+2022-01-31 13:45:23+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"RAF Chinook of @27_Sqn made the 1000th deck landing on @HMSPWLS 
 
-https://t.co/1c7zHD950l https://t.co/fxzseHbquK",en,,['https://pbs.twimg.com/media/FKb1EWuXEAAKKCu.jpg'],TweetDeck,,,
-167,2022-01-31 13:27:44+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSDragon @SheilaLWeir Via @ArgyllSeaGlass https://t.co/D4r82f7K7C,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1488141930588475393/pu/img/qxEToJuMvr-pqBY1.jpg'],TweetDeck,,,
-168,2022-01-31 13:13:51+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon inbound on the Clyde today.
+https://t.co/1c7zHD950l https://t.co/fxzseHbquK",en,,['https://pbs.twimg.com/media/FKb1EWuXEAAKKCu.jpg'],
+2022-01-31 13:27:44+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSDragon @SheilaLWeir Via @ArgyllSeaGlass https://t.co/D4r82f7K7C,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1488141930588475393/pu/img/qxEToJuMvr-pqBY1.jpg'],
+2022-01-31 13:13:51+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon inbound on the Clyde today.
 
-Via @SheilaLWeir https://t.co/jjmlTFp1t3",en,,['https://pbs.twimg.com/media/FKbuCLNXwAMI8T2.jpg'],TweetDeck,,,
-169,2022-01-31 12:44:07+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAMountsBay outbound from Gareloch today 
+Via @SheilaLWeir https://t.co/jjmlTFp1t3",en,,['https://pbs.twimg.com/media/FKbuCLNXwAMI8T2.jpg'],
+2022-01-31 12:44:07+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAMountsBay outbound from Gareloch today 
 
-Via @SheilaLWeir https://t.co/Vr5Bf2LXHS",en,,['https://pbs.twimg.com/media/FKbm7JpXIAM9r3p.jpg'],TweetDeck,,,
-170,2022-01-30 19:39:13+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Medway exercises with
-🇧🇸Royal Bahamian Defence Force patrol vessel HMBS Kamalamee https://t.co/MsLM8BPDOK",en,,['https://pbs.twimg.com/media/FKX8ozNWQAQ7SEX.jpg'],TweetDeck,,,
-171,2022-01-30 16:12:38+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@scottyc298 before it was deleted https://t.co/mhs2UfTZen,en,,['https://pbs.twimg.com/media/FKXNWgvX0AAYLrm.jpg'],TweetDeck,,,
-172,2022-01-29 10:00:08+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@825NAS Wildcat conducts WINCHEX from @HMSPWLS off the south Devon coast.
+Via @SheilaLWeir https://t.co/Vr5Bf2LXHS",en,,['https://pbs.twimg.com/media/FKbm7JpXIAM9r3p.jpg'],
+2022-01-30 19:39:13+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Medway exercises with
+🇧🇸Royal Bahamian Defence Force patrol vessel HMBS Kamalamee https://t.co/MsLM8BPDOK",en,,['https://pbs.twimg.com/media/FKX8ozNWQAQ7SEX.jpg'],
+2022-01-30 16:12:38+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@scottyc298 before it was deleted https://t.co/mhs2UfTZen,en,,['https://pbs.twimg.com/media/FKXNWgvX0AAYLrm.jpg'],
+2022-01-29 10:00:08+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@825NAS Wildcat conducts WINCHEX from @HMSPWLS off the south Devon coast.
 
-@RFATidesurge on the horizon https://t.co/z65dqEI1I6",en,,['https://pbs.twimg.com/media/FKQuEWqXEAMLmoI.jpg'],TweetDeck,,,
-173,2022-01-28 19:43:21+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_albion inbound to Devonport this evening - passing @RFAFortVictoria at South Yard
+@RFATidesurge on the horizon https://t.co/z65dqEI1I6",en,,['https://pbs.twimg.com/media/FKQuEWqXEAMLmoI.jpg'],
+2022-01-28 19:43:21+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_albion inbound to Devonport this evening - passing @RFAFortVictoria at South Yard
 
-via: niggly_ https://t.co/m6H0Ys3Ybt",en,,['https://pbs.twimg.com/media/FKNqVGEXEAMQnKQ.jpg'],TweetDeck,,,
-174,2022-01-28 15:29:37+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern returns to Portsmouth this afternoon.
+via: niggly_ https://t.co/m6H0Ys3Ybt",en,,['https://pbs.twimg.com/media/FKNqVGEXEAMQnKQ.jpg'],
+2022-01-28 15:29:37+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern returns to Portsmouth this afternoon.
 
-Via @georgeemmett8 https://t.co/Lt413sF3RG",en,,['https://pbs.twimg.com/media/FKMwVXYXIAE5Mx9.jpg'],TweetDeck,,,
-175,2022-01-28 15:23:04+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @HMSDuncan: Cdr Ben Martin MBE RN has now taken over command of @HMSDuncan from Lt Cdr Rob Moore. https://t.co/GYDqcvdat4,en,,['https://pbs.twimg.com/media/FKMgAX9WQAgozXS.jpg'],TweetDeck,,,
-176,2022-01-28 08:02:09+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Medway alongside in Nassau, 🇧🇸Bahamas 
+Via @georgeemmett8 https://t.co/Lt413sF3RG",en,,['https://pbs.twimg.com/media/FKMwVXYXIAE5Mx9.jpg'],
+2022-01-28 15:23:04+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @HMSDuncan: Cdr Ben Martin MBE RN has now taken over command of @HMSDuncan from Lt Cdr Rob Moore. https://t.co/GYDqcvdat4,en,,['https://pbs.twimg.com/media/FKMgAX9WQAgozXS.jpg'],
+2022-01-28 08:02:09+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Medway alongside in Nassau, 🇧🇸Bahamas 
 
-Via @Swestred https://t.co/x7jRTIdgQk",in,,['https://pbs.twimg.com/media/FKLJ6kxXoAAVW66.jpg'],TweetDeck,,,
-177,2022-01-27 13:55:08+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon at anchor in Tor Bay this morning, having arrived in the bay yesterday evening.
+Via @Swestred https://t.co/x7jRTIdgQk",in,,['https://pbs.twimg.com/media/FKLJ6kxXoAAVW66.jpg'],
+2022-01-27 13:55:08+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon at anchor in Tor Bay this morning, having arrived in the bay yesterday evening.
 
-Via @218goldcoast https://t.co/zXR969RtFR",en,,['https://pbs.twimg.com/media/FKHRDbnWYAAaRX2.jpg'],TweetDeck,,,
-178,2022-01-27 09:04:52+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Vanguard class submarine coming home from a long patrol this morning.
+Via @218goldcoast https://t.co/zXR969RtFR",en,,['https://pbs.twimg.com/media/FKHRDbnWYAAaRX2.jpg'],
+2022-01-27 09:04:52+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Vanguard class submarine coming home from a long patrol this morning.
 
-Via @SheilaLWeir https://t.co/Iwy1VzCQdG",en,,['https://pbs.twimg.com/media/FKGOmbTXoAE3tKC.jpg'],TweetDeck,,,
-179,2022-01-27 08:15:40+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"The Future Maritime Aviation Force – UK naval aviation in 2030
+Via @SheilaLWeir https://t.co/Iwy1VzCQdG",en,,['https://pbs.twimg.com/media/FKGOmbTXoAE3tKC.jpg'],
+2022-01-27 08:15:40+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"The Future Maritime Aviation Force – UK naval aviation in 2030
 
-https://t.co/KxIUIOqy1q https://t.co/4LeAg9pqMY",en,,['https://pbs.twimg.com/media/FKGDbJoXsAEPTfb.jpg'],TweetDeck,,,
-180,2022-01-27 08:14:00+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @ScotlandDX: HMS Pembroke M-107 passing Gourock inbound for Faslane today #RoyalNavy #Navy #shipping https://t.co/53tZ3wKFpK,en,"['RoyalNavy', 'Navy', 'shipping']",['https://pbs.twimg.com/media/FKD2S7CXMAM-iLQ.jpg'],TweetDeck,,,
-181,2022-01-27 08:06:26+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER at the UHAF in Portsmouth yesterday.
+https://t.co/KxIUIOqy1q https://t.co/4LeAg9pqMY",en,,['https://pbs.twimg.com/media/FKGDbJoXsAEPTfb.jpg'],
+2022-01-27 08:14:00+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @ScotlandDX: HMS Pembroke M-107 passing Gourock inbound for Faslane today #RoyalNavy #Navy #shipping https://t.co/53tZ3wKFpK,en,"['RoyalNavy', 'Navy', 'shipping']",['https://pbs.twimg.com/media/FKD2S7CXMAM-iLQ.jpg'],
+2022-01-27 08:06:26+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLANCASTER at the UHAF in Portsmouth yesterday.
 
-Via @AWenham1 https://t.co/xQzFtc377s",en,,['https://pbs.twimg.com/media/FKGBUA5XoAASaIj.jpg'],TweetDeck,,,
-182,2022-01-27 08:02:15+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSSpey refuelled alongside by 🇳🇿HMNZS Aotearoa after delivering aid to 🇹🇴Tonga
+Via @AWenham1 https://t.co/xQzFtc377s",en,,['https://pbs.twimg.com/media/FKGBUA5XoAASaIj.jpg'],
+2022-01-27 08:02:15+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSSpey refuelled alongside by 🇳🇿HMNZS Aotearoa after delivering aid to 🇹🇴Tonga
 
-Via @NZNavy https://t.co/43csn38Bf4",en,,['https://pbs.twimg.com/media/FKGAQajXEAQuMc0.jpg'],TweetDeck,,,
-183,2022-01-26 14:14:47+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine outbound from the Clyde today 
+Via @NZNavy https://t.co/43csn38Bf4",en,,['https://pbs.twimg.com/media/FKGAQajXEAQuMc0.jpg'],
+2022-01-26 14:14:47+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine outbound from the Clyde today 
 
-Via @SheilaLWeir https://t.co/Oevwy2Iomz",en,,['https://pbs.twimg.com/media/FKCMAY6XMAQ32kb.jpg'],TweetDeck,,,
-184,2022-01-26 09:35:13+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMS_Medway back on patrol in the Caribbean region https://t.co/0f71VXOTbN,en,,['https://pbs.twimg.com/media/FKBMC18X0AEK2ot.jpg'],TweetDeck,,,
-185,2022-01-26 08:17:35+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,Commander P Barfoot becomes the new CO of @hmsdiamond taking over from Cdr M Marriott https://t.co/baxthBR5xw,en,,['https://pbs.twimg.com/media/FKA6Eu_WQAMfVLA.jpg'],TweetDeck,,,
-186,2022-01-25 18:40:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest article:
+Via @SheilaLWeir https://t.co/Oevwy2Iomz",en,,['https://pbs.twimg.com/media/FKCMAY6XMAQ32kb.jpg'],
+2022-01-26 09:35:13+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMS_Medway back on patrol in the Caribbean region https://t.co/0f71VXOTbN,en,,['https://pbs.twimg.com/media/FKBMC18X0AEK2ot.jpg'],
+2022-01-26 08:17:35+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,Commander P Barfoot becomes the new CO of @hmsdiamond taking over from Cdr M Marriott https://t.co/baxthBR5xw,en,,['https://pbs.twimg.com/media/FKA6Eu_WQAMfVLA.jpg'],
+2022-01-25 18:40:42+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest article:
 
 The Future Maritime Aviation Force – UK naval aviation in 2030
 
-https://t.co/KxIUIOqy1q https://t.co/0ajc9ZMMTl",en,,['https://pbs.twimg.com/media/FJ9_PtrWUA0ug4N.jpg'],TweetDeck,,,
-187,2022-01-25 15:11:52+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@DartmouthBRNC @ATLAS_AEUK https://t.co/JjbnUCq1gC,und,,['https://pbs.twimg.com/media/FJ9PRNZX0AUj_Dg.jpg'],TweetDeck,,,
-188,2022-01-25 13:58:01+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSTrent sails from Bar Montenegro 🇲🇪 today after visit. https://t.co/2lpGgFKmFq,en,,['https://pbs.twimg.com/media/FJ8-mVuWQAMk0Sj.jpg'],TweetDeck,,,
-189,2022-01-25 10:02:07+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern conducting NAVEX in the Hamoaze this morning.
+https://t.co/KxIUIOqy1q https://t.co/0ajc9ZMMTl",en,,['https://pbs.twimg.com/media/FJ9_PtrWUA0ug4N.jpg'],
+2022-01-25 15:11:52+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,@DartmouthBRNC @ATLAS_AEUK https://t.co/JjbnUCq1gC,und,,['https://pbs.twimg.com/media/FJ9PRNZX0AUj_Dg.jpg'],
+2022-01-25 13:58:01+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMSTrent sails from Bar Montenegro 🇲🇪 today after visit. https://t.co/2lpGgFKmFq,en,,['https://pbs.twimg.com/media/FJ8-mVuWQAMk0Sj.jpg'],
+2022-01-25 10:02:07+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern conducting NAVEX in the Hamoaze this morning.
 
-Via P. Smith https://t.co/YaAzBPR5GO",en,,['https://pbs.twimg.com/media/FJ8Il0OXsAQ1MSr.jpg'],TweetDeck,,,
-190,2022-01-25 08:00:58+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"RT @Hugh6303: #RoyalNavy #Merlin X 3 arriving @RAFLossiemouth yesterday
-@scan_sky https://t.co/Yeiu5GSCxB",en,"['RoyalNavy', 'Merlin']",['https://pbs.twimg.com/media/FJ7ogqOXMAAD_XA.jpg'],TweetDeck,,,
-191,2022-01-24 13:44:44+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSHurworth outbound from Portsmouth this afternoon.
+Via P. Smith https://t.co/YaAzBPR5GO",en,,['https://pbs.twimg.com/media/FJ8Il0OXsAQ1MSr.jpg'],
+2022-01-25 08:00:58+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"RT @Hugh6303: #RoyalNavy #Merlin X 3 arriving @RAFLossiemouth yesterday
+@scan_sky https://t.co/Yeiu5GSCxB",en,"['RoyalNavy', 'Merlin']",['https://pbs.twimg.com/media/FJ7ogqOXMAAD_XA.jpg'],
+2022-01-24 13:44:44+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSHurworth outbound from Portsmouth this afternoon.
 
-Via @scottyc298 https://t.co/6lk2e51WuD",en,,['https://pbs.twimg.com/media/FJ3x9-jWUAA4wGz.jpg'],TweetDeck,,,
-192,2022-01-24 08:09:24+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,Note the self-loading capability of the OPVs. (Using the 16 tonne crane) https://t.co/OvM5tUUnVy,en,,['https://pbs.twimg.com/media/FJ2k8m2WQAQWQbh.jpg'],TweetDeck,,,
-193,2022-01-23 21:13:08+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmsdiamond begins post-deployment maintenance in Portsmouth.
+Via @scottyc298 https://t.co/6lk2e51WuD",en,,['https://pbs.twimg.com/media/FJ3x9-jWUAA4wGz.jpg'],
+2022-01-24 08:09:24+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,Note the self-loading capability of the OPVs. (Using the 16 tonne crane) https://t.co/OvM5tUUnVy,en,,['https://pbs.twimg.com/media/FJ2k8m2WQAQWQbh.jpg'],
+2022-01-23 21:13:08+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmsdiamond begins post-deployment maintenance in Portsmouth.
 
-Via @RNPics_ https://t.co/4Y7zIQGPHI",en,,['https://pbs.twimg.com/media/FJ0O0wBXMAU0v7X.jpg'],TweetDeck,,,
-194,2022-01-23 19:01:01+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@HMSNORT .@HMSNORT subsequently came alongside in Faslane today.
+Via @RNPics_ https://t.co/4Y7zIQGPHI",en,,['https://pbs.twimg.com/media/FJ0O0wBXMAU0v7X.jpg'],
+2022-01-23 19:01:01+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"@HMSNORT .@HMSNORT subsequently came alongside in Faslane today.
 
-Via @nato_news https://t.co/5kjB8lf7m4",en,,['https://pbs.twimg.com/media/FJzwxiiXIAMPUUU.jpg'],TweetDeck,,,
-195,2022-01-23 18:58:35+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT dawn at anchor on the Clyde.
+Via @nato_news https://t.co/5kjB8lf7m4",en,,['https://pbs.twimg.com/media/FJzwxiiXIAMPUUU.jpg'],
+2022-01-23 18:58:35+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT dawn at anchor on the Clyde.
 
-Via: firth_of_clyde https://t.co/QlC6p7sH6a",en,,['https://pbs.twimg.com/media/FJzwMlLWYAM9f3P.jpg'],TweetDeck,,,
-196,2022-01-23 16:52:37+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern inbound to Devonport this afternoon.
+Via: firth_of_clyde https://t.co/QlC6p7sH6a",en,,['https://pbs.twimg.com/media/FJzwMlLWYAM9f3P.jpg'],
+2022-01-23 16:52:37+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern inbound to Devonport this afternoon.
 
-Via: @Rockhoppas https://t.co/xUkjkvYRWj",en,,['https://pbs.twimg.com/media/FJzTXxGWQAoP_mA.jpg'],TweetDeck,,,
-197,2022-01-23 12:54:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo outbound from Devonport this morning.
+Via: @Rockhoppas https://t.co/xUkjkvYRWj",en,,['https://pbs.twimg.com/media/FJzTXxGWQAoP_mA.jpg'],
+2022-01-23 12:54:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo outbound from Devonport this morning.
 
-Via @Rockhoppas https://t.co/uVwi7F2f6w",en,,['https://pbs.twimg.com/media/FJycyTuXoAITXH3.jpg'],TweetDeck,,,
-198,2022-01-23 10:24:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,Simultaneous launch of F-35Cs from 🇺🇸USS Abraham Lincoln and USS Carl Vinson in the Philipine Sea (22/1/22) https://t.co/UpuU3AOeJQ,en,,['https://pbs.twimg.com/media/FJx6oFmXEAIC2sq.jpg'],TweetDeck,,,
-199,2022-01-22 08:51:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ 
+Via @Rockhoppas https://t.co/uVwi7F2f6w",en,,['https://pbs.twimg.com/media/FJycyTuXoAITXH3.jpg'],
+2022-01-23 10:24:54+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,Simultaneous launch of F-35Cs from 🇺🇸USS Abraham Lincoln and USS Carl Vinson in the Philipine Sea (22/1/22) https://t.co/UpuU3AOeJQ,en,,['https://pbs.twimg.com/media/FJx6oFmXEAIC2sq.jpg'],
+2022-01-22 08:51:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ 
 
-via @scottyc298 https://t.co/Lk1Pf6RqT5",und,,['https://pbs.twimg.com/media/FJsbfxRXIAAZu9l.jpg'],TweetDeck,,,
-200,2022-01-22 08:50:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDuncan major refit nearly complete.
+via @scottyc298 https://t.co/Lk1Pf6RqT5",und,,['https://pbs.twimg.com/media/FJsbfxRXIAAZu9l.jpg'],
+2022-01-22 08:50:05+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDuncan major refit nearly complete.
 
-via @scottyc298 https://t.co/91Avt3fHPf",en,,['https://pbs.twimg.com/media/FJsbVN7XwAIu78v.jpg'],TweetDeck,,,
-201,2022-01-22 08:40:09+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT at anchor on the Clyde yesterday.
+via @scottyc298 https://t.co/91Avt3fHPf",en,,['https://pbs.twimg.com/media/FJsbVN7XwAIu78v.jpg'],
+2022-01-22 08:40:09+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT at anchor on the Clyde yesterday.
 
-VIa @wolfie250 https://t.co/AHQmVNbGCj",en,,['https://pbs.twimg.com/media/FJsYnqPWYAM7Ozq.jpg'],TweetDeck,,,
-202,2022-01-21 14:28:41+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT back on Fleet Ready Escort / TAPS duty inbound to Faslane this afternoon 
+VIa @wolfie250 https://t.co/AHQmVNbGCj",en,,['https://pbs.twimg.com/media/FJsYnqPWYAM7Ozq.jpg'],
+2022-01-21 14:28:41+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT back on Fleet Ready Escort / TAPS duty inbound to Faslane this afternoon 
 
-Via @SheilaLWeir https://t.co/Veh2ywYAXC",en,,['https://pbs.twimg.com/media/FJofQa3XMAUnFbt.jpg'],TweetDeck,,,
-203,2022-01-21 11:06:39+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSHurworth inbound to Portsmouth this morning
+Via @SheilaLWeir https://t.co/Veh2ywYAXC",en,,['https://pbs.twimg.com/media/FJofQa3XMAUnFbt.jpg'],
+2022-01-21 11:06:39+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSHurworth inbound to Portsmouth this morning
 
-Via @scottyc298 @AmzJS13 https://t.co/5DkeJvPDmv",en,,['https://pbs.twimg.com/media/FJnw9qFXoAMny4W.jpg'],TweetDeck,,,
-204,2022-01-21 10:38:32+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_mersey sails from Falmouth this morning
+Via @scottyc298 @AmzJS13 https://t.co/5DkeJvPDmv",en,,['https://pbs.twimg.com/media/FJnw9qFXoAMny4W.jpg'],
+2022-01-21 10:38:32+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_mersey sails from Falmouth this morning
 
-Via @jacktad1971 https://t.co/dzkoFC13w3",en,,['https://pbs.twimg.com/media/FJnqks6XoAMSoN9.jpg'],TweetDeck,,,
-205,2022-01-21 09:12:43+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidesurge outbound from Plymouth at sunrise this morning.
+Via @jacktad1971 https://t.co/dzkoFC13w3",en,,['https://pbs.twimg.com/media/FJnqks6XoAMSoN9.jpg'],
+2022-01-21 09:12:43+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidesurge outbound from Plymouth at sunrise this morning.
 
-Via @RfaNostalgia @alantrevorrow https://t.co/rU9exSoFAH",en,,['https://pbs.twimg.com/media/FJnW8TKXwAAXypV.jpg'],TweetDeck,,,
-206,2022-01-20 20:59:45+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @SSN14CO: A few years ago…..#turbulent #submarines #diving https://t.co/S7SzsGymVR,en,"['turbulent', 'submarines', 'diving']",['https://pbs.twimg.com/ext_tw_video_thumb/1484200697453187073/pu/img/H95hC8dUg1UjmFpb.jpg'],TweetDeck,,,
-207,2022-01-20 20:50:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Spot the type 45...
+Via @RfaNostalgia @alantrevorrow https://t.co/rU9exSoFAH",en,,['https://pbs.twimg.com/media/FJnW8TKXwAAXypV.jpg'],
+2022-01-20 20:59:45+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,RT @SSN14CO: A few years ago…..#turbulent #submarines #diving https://t.co/S7SzsGymVR,en,"['turbulent', 'submarines', 'diving']",['https://pbs.twimg.com/ext_tw_video_thumb/1484200697453187073/pu/img/H95hC8dUg1UjmFpb.jpg'],
+2022-01-20 20:50:54+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"Spot the type 45...
 
-@HMSDefender post-deployment maintenance work well underway in Portsmouth https://t.co/ty6OhuzGHc",en,,['https://pbs.twimg.com/media/FJktJWPX0AEtEdi.jpg'],TweetDeck,,,
-208,2022-01-20 11:30:16+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Spey has arrived in
+@HMSDefender post-deployment maintenance work well underway in Portsmouth https://t.co/ty6OhuzGHc",en,,['https://pbs.twimg.com/media/FJktJWPX0AEtEdi.jpg'],
+2022-01-20 11:30:16+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Spey has arrived in
 Papeete, Tahiti in French Polynesia to take on stores.
-🇵🇫🇫🇷 https://t.co/x0Oqj2LOm5",en,,['https://pbs.twimg.com/media/FJiszEKWUAQeYSw.jpg'],TweetDeck,,,
-209,2022-01-20 09:10:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern and @hms_mersey alongside in Falmouth this morning.
+🇵🇫🇫🇷 https://t.co/x0Oqj2LOm5",en,,['https://pbs.twimg.com/media/FJiszEKWUAQeYSw.jpg'],
+2022-01-20 09:10:54+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern and @hms_mersey alongside in Falmouth this morning.
 
-Via @jacktad1971 https://t.co/zd8JiHcOqy",en,,['https://pbs.twimg.com/media/FJiM4dZXIAErt4F.jpg'],TweetDeck,,,
-210,2022-01-20 09:07:25+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"The development of the Royal Navy Digital Service Standard (RN DSS) 
+Via @jacktad1971 https://t.co/zd8JiHcOqy",en,,['https://pbs.twimg.com/media/FJiM4dZXIAErt4F.jpg'],
+2022-01-20 09:07:25+00:00,NavyLookout,Independent Royal Navy news and analysis,UK,"The development of the Royal Navy Digital Service Standard (RN DSS) 
 
-https://t.co/P2BP1fhXER https://t.co/K4jrCzGq4Q",en,,['https://pbs.twimg.com/media/FJiMI2jWQAAO6Wm.jpg'],TweetDeck,,,
-211,2022-01-19 16:39:30+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLedbury inbound to Portsmouth this afternoon
-
-Via @georgeemmett8 https://t.co/Q8tTha8LbO",en,,['https://pbs.twimg.com/media/FJeqABeXoAYEus-.jpg'],TweetDeck,,,
-212,2022-01-19 10:31:22+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"How to Build an Aircraft Carrier
-
-By @ChrisTerrill published tomorrow
-
-https://t.co/601r2YmHcQ https://t.co/GtmWBb8YYK",en,,['https://pbs.twimg.com/media/FJdVwqxXMAMV4WL.jpg'],TweetDeck,,,
-213,2022-01-19 08:12:08+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @AWenham1: HMS Queen Elizabeth - stair lift! https://t.co/92AQuN5u85,en,,['https://pbs.twimg.com/media/FJa3_-uXsAUHzjY.jpg'],TweetDeck,,,
-214,2022-01-18 16:24:30+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine outbound on the Clyde this afternoon in blustery conditions
-
-Via @SheilaLWeir https://t.co/65skGzSO2i",en,,['https://pbs.twimg.com/media/FJZdAHKXoAYW1mW.jpg'],TweetDeck,,,
-215,2022-01-18 16:24:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSHurworth inbound to Portsmouth this afternoon.
-
-Via @PortsmouthProud https://t.co/ucugcpNSg0",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1483475141082365952/pu/img/dUh4Yo5jE8UpBdpG.jpg'],TweetDeck,,,
-216,2022-01-18 16:09:08+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"How to Build an Aircraft Carrier – Book Review
-
-By @ChrisTerrill published this week
-
-https://t.co/601r2Y55Og https://t.co/1unv0s6xX9",en,,['https://pbs.twimg.com/media/FJZZbzIWUAcB2zt.jpg'],TweetDeck,,,
-217,2022-01-18 09:09:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ ski ramp getting some TLC after some heavy use
-
-Via @AWenham1 https://t.co/qKZvDmiLbA",en,,['https://pbs.twimg.com/media/FJX5cyGXEAElPFg.jpg'],TweetDeck,,,
-218,2022-01-18 09:07:41+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@kon_marine @Rockhoppas Understandably the Dutch navy named a ship after her 😉 https://t.co/VYlgC6oOwS,en,,['https://pbs.twimg.com/media/FJX4_59XsAAeDjo.jpg'],TweetDeck,,,
-219,2022-01-18 09:06:52+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_argyll and @hms_albion alongside in Devonport yesterday
-
-Via @WOCarlSteedman https://t.co/z9S3CKHDnr",en,,['https://pbs.twimg.com/media/FJX40q6XoAAlH_P.jpg'],TweetDeck,,,
-220,2022-01-18 08:10:00+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,Welcome to Twitter @RAdmJudeTerry - RN Director of People and Training https://t.co/Im5jemdRbi,en,,['https://pbs.twimg.com/media/FJXfoeLX0AQu3Rp.jpg'],TweetDeck,,,
-221,2022-01-17 15:45:51+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPWLS currently conducting training at sea off Cornwall. 
-
-Via: Tiny Richardson https://t.co/w5JswBXxgg",en,,['https://pbs.twimg.com/media/FJUKQMzWUAQkEkW.jpg'],TweetDeck,,,
-222,2022-01-17 14:21:23+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent sails from #Gibraltar this afternoon.
-
-Via @DParody https://t.co/XeiyXBlIc8",en,['Gibraltar'],['https://pbs.twimg.com/media/FJT3O3sXoAQ8exi.jpg'],TweetDeck,,,
-223,2022-01-17 12:20:26+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSDragon back to sea this morning.
-
-Via @PortsmouthProud https://t.co/fHPvUhhYsw",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1483051542076928001/pu/img/TBZZYYd6LoTkhVju.jpg'],TweetDeck,,,
-224,2022-01-17 10:13:41+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Foggy start to the day @RNASYeovilton
-
-Wildcats of @825NAS prepare for flying training 
-
-Via @847NAS https://t.co/1EamOiPvIb",en,,['https://pbs.twimg.com/media/FJS-WvyWUAMPluQ.jpg'],TweetDeck,,,
-225,2022-01-17 09:48:44+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"HMS Mersey, migrants and the Royal Navy (2019)
-
-https://t.co/e0AdzYl4dt https://t.co/VPXFaiA4EW",en,,['https://pbs.twimg.com/media/FJS40fQWYAQmM0M.jpg'],TweetDeck,,,
-226,2022-01-17 08:06:02+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,https://t.co/6NdMJziyxe,und,,['https://pbs.twimg.com/media/FJShUaPXEAA1xqv.jpg'],TweetDeck,,,
-227,2022-01-16 16:02:14+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidesurge and @RFATiderace alongside in Devonport last night
-
-via @TomLeachPhotos https://t.co/TDBvzTZ0Vo",en,,['https://pbs.twimg.com/media/FJPEtf9X0Ag12yd.jpg'],TweetDeck,,,
-228,2022-01-16 15:54:29+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@RFAFortVictoria @matt_bromage .@RFAFortVictoria alongside in South Yard last night
-
-via @TomLeachPhotos https://t.co/CvwiNujy4W",en,,['https://pbs.twimg.com/media/FJPC7oGXMAYrwjL.jpg'],TweetDeck,,,
-229,2022-01-16 08:18:32+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria moved from the buoy in Plymouth Sound to South Yard, Devonport yesterday.
-
-Via @matt_bromage https://t.co/fZBx5LOJ8F",en,,['https://pbs.twimg.com/media/FJNaj2SXEAUGeWJ.jpg'],TweetDeck,,,
-230,2022-01-15 12:50:17+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Vanguard class submarine inbound on the Clyde today.
-
-Via @SheilaLWeir https://t.co/uqa3LfkQd8",en,,['https://pbs.twimg.com/media/FJJPASOWUAIyY-5.jpg'],TweetDeck,,,
-231,2022-01-15 10:39:57+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent alongside at South Mole #Gibraltar this week.
-
-Via: @key2med https://t.co/p5q2LfTsEg",en,['Gibraltar'],['https://pbs.twimg.com/media/FJIxTfsXIAAS-Sl.jpg'],TweetDeck,,,
-232,2022-01-14 15:56:48+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@hmsprotector Photos: LPhot Belinda Alker https://t.co/729cJcnSWO,in,,['https://pbs.twimg.com/media/FJEwEo5XMAMyfRW.jpg'],TweetDeck,,,
-233,2022-01-14 14:39:35+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸US Virginia-class submarine outbound from Faslane today.
-
-Via @SheilaLWeir https://t.co/EJ6odv7GwT",en,,['https://pbs.twimg.com/media/FJEedf_WUAML5Gv.jpg'],TweetDeck,,,
-234,2022-01-14 14:35:00+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo inbound to Devonport this afternoon
-
-Via @Rockhoppas https://t.co/140n3KFUmc",en,,['https://pbs.twimg.com/media/FJEdkwaXoAEg077.jpg'],TweetDeck,,,
-235,2022-01-14 10:58:47+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Congratulations to veteran minehunter @HmsBrocklesby  
-
-40 years old yesterday and still going strong. https://t.co/RmNfKMzPlX",en,,['https://pbs.twimg.com/media/FJDr_zqXEAAWYSH.jpg'],TweetDeck,,,
-236,2022-01-14 08:01:55+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"RT @HMS_Spey: 1/3
-Somewhere in the Pacific Ocean... 
-
-Ship Ahoy! ⛴️👀
-🇬🇧 🇺🇸 https://t.co/Xp4u34OFqQ",en,,['https://pbs.twimg.com/media/FJCIZaQXoAMWenN.jpg'],TweetDeck,,,
-237,2022-01-13 20:28:35+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Albion inbound to C-Bouy in Plymouth Sound this evening.
-
-via @TomLeachPhotos https://t.co/FdevpCht4l",en,,['https://pbs.twimg.com/media/FJAkxJ4XIAIekmS.jpg'],TweetDeck,,,
-238,2022-01-13 20:25:06+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSLedbury sunset arrival in Portsmouth this evening.
-
-Via @PortsmouthProud https://t.co/gct9xP1dYH",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1481723157321035777/pu/img/dFa3cG1I-IcbEsgZ.jpg'],TweetDeck,,,
-239,2022-01-13 18:44:39+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,Cdre Ahlgren has handed over command of @UKMCCMiddleEast  to @CaptAidyFryer in Bahrain https://t.co/5UarZDrsPr,en,,['https://pbs.twimg.com/media/FJANH1xXwAseSeb.jpg'],TweetDeck,,,
-240,2022-01-13 09:11:09+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria arriving in Plymouth Sound yesterday and securing to D-Buoy
-
-Via @RfaNostalgia @alantrevorrow https://t.co/kzR9gldd9k",en,,['https://pbs.twimg.com/media/FI-JvjeXoAMzpTN.jpg'],TweetDeck,,,
-241,2022-01-12 21:24:34+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HmsBrocklesby in the Solent this morning. 
-
-@HMSPWLS and @hms_tyne on the horizon https://t.co/Fmb1YnL0d9",en,,['https://pbs.twimg.com/media/FI7oI4cXoAMrNRj.jpg'],TweetDeck,,,
-242,2022-01-12 20:03:50+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@HMS_Spey https://t.co/lqhm3RYD0k,und,,['https://pbs.twimg.com/media/FI7VqwGWYAoIcyC.jpg'],TweetDeck,,,
-243,2022-01-12 16:42:24+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@HMS_Spey sails from Hawaii in company with 🇺🇸USCGC Stratton https://t.co/Grp2GZK1jI,en,,['https://pbs.twimg.com/media/FI6niIvWUAElCyN.jpg'],TweetDeck,,,
-244,2022-01-12 14:45:22+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,https://t.co/6hOT3EwJhI,und,,['https://pbs.twimg.com/media/FI6MxsHXIAEcQlc.jpg'],TweetDeck,,,
-245,2022-01-12 13:44:38+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAFortVictoria arrives in Plymouth Sound this afternoon
-
-Via @Rockhoppas https://t.co/jLl7G8gIoC",en,,['https://pbs.twimg.com/media/FI5-3vgXIAI0OTf.jpg'],TweetDeck,,,
-246,2022-01-12 09:07:01+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@HMSPWLS @RNPics_ Via @PortsmouthProud https://t.co/NqcvEI7NBZ,und,,['https://pbs.twimg.com/ext_tw_video_thumb/1481190874713362436/pu/img/dNiwOy1a0yC5eEMC.jpg'],TweetDeck,,,
-247,2022-01-12 08:21:32+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSPWLS departing from Portsmouth this morning for 3-week training period.
-
-https://t.co/ED2gW7GDUC
-
-Via @RNPics_ https://t.co/oMftJuMPAG",en,,['https://pbs.twimg.com/media/FI40vuYWUAEHB6x.jpg'],TweetDeck,,,
-248,2022-01-11 14:54:28+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Astute class submarine outbound on the Clyde this morning.
-
-Via @SheilaLWeir https://t.co/dnIGts7eFX",en,,['https://pbs.twimg.com/media/FI1FHEyXsAcIUOU.jpg'],TweetDeck,,,
-249,2022-01-11 14:09:14+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest news commentary:
-
-HMS Prince of Wales into the spotlight
-
-https://t.co/ED2gW7GDUC https://t.co/6XAxDNeDJ4",en,,['https://pbs.twimg.com/media/FI06IQpXIAcxOiq.jpg'],TweetDeck,,,
-250,2022-01-11 10:19:35+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,#NATO change of command ceremony @HMSPWLS https://t.co/VOyP2NwvmG,en,['NATO'],['https://pbs.twimg.com/media/FI0GWX4XMAEnMsN.jpg'],Twitter for iPhone,,,
-251,2022-01-11 10:16:23+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_mersey outbound in the fog this morning. 
-
-Seen from @HMSPWLS https://t.co/AXu8md4rHN",en,,['https://pbs.twimg.com/media/FI0Fm3hXEAAzSaH.jpg'],Twitter for iPhone,,,
-252,2022-01-11 08:10:00+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAMountsBay returned to Gare Loch Oil Jetty yesterday
-
-via @wolfie250 https://t.co/t3yBH8PvtI",en,,['https://pbs.twimg.com/media/FIzNq40XIAQQYoL.jpg'],TweetDeck,,,
-253,2022-01-10 19:10:21+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Back on patrol
-
-@hms_tyne outbound from Portsmouth today.
-
-via @georgeemmett8 https://t.co/vJQed2Bb1D",en,,['https://pbs.twimg.com/media/FIw2Or4WYAAGcZR.jpg'],TweetDeck,,,
-254,2022-01-10 19:10:02+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Dusk departure for @HMS_Albion from Devonport this evening.
-
-#UKResponseGroup 
-
-Photos: @hms_albion @Rockhoppas https://t.co/fgnzApiNaH",en,['UKResponseGroup'],['https://pbs.twimg.com/media/FIw1r9OXsAQ6i5z.jpg'],TweetDeck,,,
-255,2022-01-10 08:16:10+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @AWenham1: HMS Duncan refit nearing completion https://t.co/797EL9nJZZ,en,,['https://pbs.twimg.com/media/FIpwWq0XIAEoSM9.jpg'],TweetDeck,,,
-256,2022-01-09 18:08:21+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSQNLZ alongside at Victory Jetty, Portsmouth in post -deployment maintenance period.
-
-Via @scottyc298 https://t.co/QgV7vxh1mn",en,,['https://pbs.twimg.com/media/FIreJgqXsAMmeFo.jpg'],TweetDeck,,,
-257,2022-01-09 16:12:34+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇮🇳India’s new aircraft carrier INS Vikrant heads out for the next round of sea trials.
-
-Via @ANI https://t.co/UIIiSKQI6Y",en,,['https://pbs.twimg.com/media/FIrD7thXEAstMfw.jpg'],TweetDeck,,,
-258,2022-01-09 09:50:28+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_albion @HMS_Richmond @hms_argyll @HMSNORT and ex-HMS Trenchant in Devonport this week.
-
-Photo: Andy Amor https://t.co/74jEsIiqMe",en,,['https://pbs.twimg.com/media/FIpsdkyXEAIqyKZ.jpg'],TweetDeck,,,
-259,2022-01-09 09:28:36+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇹🇭Thai navy finds abandoned 'ghost ship' adrift in Gulf of Siam. 
-
-https://t.co/aTEexrDj2P https://t.co/U6lJ3gRoqm",en,,['https://pbs.twimg.com/media/FIpnUx5XwAI3Ffd.jpg'],TweetDeck,,,
-260,2022-01-08 17:57:10+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSScottRN sails from #Gibraltar this evening.
-
-Via @dparody https://t.co/Q2bEdVvHpt",en,['Gibraltar'],['https://pbs.twimg.com/media/FImSRf0XEAYP3VM.jpg'],TweetDeck,,,
-261,2022-01-08 15:42:33+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Busy Saturday for submarine activity.  
-
-Astute-class boat outbound from the Clyde this afternoon.
-
-via @SheilaLWeir https://t.co/RIcal0V23p",en,,['https://pbs.twimg.com/media/FIlzfFiXsAM3ycd.jpg'],TweetDeck,,,
-262,2022-01-08 14:44:05+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@SheilaLWeir HMS Tracker returning to Faslane after submarine escort duty.
-
-Via @SheilaLWeir https://t.co/4bdJ81oLiB",en,,['https://pbs.twimg.com/media/FIlmG28XsAYWCSJ.jpg'],TweetDeck,,,
-263,2022-01-08 12:51:56+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"@SheilaLWeir ..and outbound again a few hours later
-
-Via @SheilaLWeir https://t.co/qPOCszCeeH",en,,['https://pbs.twimg.com/media/FIlMYytXwAMaypG.jpg'],TweetDeck,,,
-264,2022-01-08 12:03:00+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_tamar to resume patrols  after arriving in Busan, 🇰🇷South Korea before Christmas.
-
-(Library photo) https://t.co/nuNNFbjGJ9",en,,['https://pbs.twimg.com/media/FIlBPW5XoAItzam.jpg'],TweetDeck,,,
-265,2022-01-08 09:38:34+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Stewart Little of the Submarine Rescue Consultancy - intereview with the BBC
-
-https://t.co/rvQwHXtrat https://t.co/LbMCEaNDsG",en,,['https://pbs.twimg.com/media/FIkgKWmXMAIohL0.jpg'],TweetDeck,,,
-266,2022-01-08 09:20:10+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"The threat to world’s communications backbone – the vulnerability of undersea cables
-
-https://t.co/DvQTgxpvQP https://t.co/BriKs8KDSC",en,,['https://pbs.twimg.com/media/FIkb9-xXwAMZ3BU.jpg'],TweetDeck,,,
-267,2022-01-08 09:08:47+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,.@RFAFortVictoria sailing from DM Crombie this morning - passing under Forth Bridges. https://t.co/jNpE95D6m8,en,,['https://pbs.twimg.com/ext_tw_video_thumb/1479741789699461128/pu/img/PJ0Hopz6bS1HMdr1.jpg'],TweetDeck,,,
-268,2022-01-07 14:14:27+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@HMS_Westminster @PortsmouthProud Some great official images of her homecoming https://t.co/kxD5CDezKL,en,,['https://pbs.twimg.com/media/FIgVoqMWUAU4jvi.jpg'],TweetDeck,,,
-269,2022-01-07 13:26:06+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo outbound from #Gibraltar this afternoon 
-
-Via @key2med https://t.co/oGKLKlpo8E",en,['Gibraltar'],['https://pbs.twimg.com/media/FIgKqDZWQAAkfS3.jpg'],TweetDeck,,,
-270,2022-01-07 13:00:29+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Latest news commentary:
-
-HMS Northumberland gets up close with a Russian submarine
-
-https://t.co/SmzUFzFVOH https://t.co/pgfm5Tt6g5",en,,['https://pbs.twimg.com/media/FIgDabUXMAAayR9.jpg'],TweetDeck,,,
-271,2022-01-07 10:01:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HmsBrocklesby outbound from Portsmouth this morning.
-
-Via @georgeemmett8 https://t.co/ZcomAmsBsD",en,,['https://pbs.twimg.com/media/FIfb3FJWQAEqrGU.jpg'],TweetDeck,,,
-272,2022-01-06 13:14:04+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFATidespring arrives on the Mersey this morning for maintenance period at @CammellLaird 
-
-Via @Streetgang42 https://t.co/bSuXueaiMl",en,,['https://pbs.twimg.com/media/FIa-Rl4XIAEHGvM.jpg'],TweetDeck,,,
-273,2022-01-06 09:41:35+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSNORT outbound from Devonport this morning.
-
-Via @RfaNostalgia https://t.co/9Uiysug9PP",en,,['https://pbs.twimg.com/media/FIaNr5JX0AMfizP.jpg'],TweetDeck,,,
-274,2022-01-06 09:27:25+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hmssevern alongside in Falmouth for planned maintenance period  
-@apgroupuk https://t.co/hibJNga2pG",en,,['https://pbs.twimg.com/media/FIaKcQ5XMAALCMg.jpg'],TweetDeck,,,
-275,2022-01-05 19:57:06+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAMountsBay outbound from Faslane this afternoon.
-
-Via @MichaelJWC626 https://t.co/aAWEf1r5oq",en,,['https://pbs.twimg.com/media/FIXQ7dPX0AIP2n5.jpg'],TweetDeck,,,
-276,2022-01-05 14:15:21+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,RT @Rockhoppas: The Eddystone Ro-Ro ship passing Plymouth Hoe this afternoon @NavyLookout #EsplanadeLife https://t.co/aoEVQ6PAFE,en,['EsplanadeLife'],['https://pbs.twimg.com/media/FIV9-amXoAAsgqJ.jpg'],TweetDeck,,,
-277,2022-01-05 11:33:55+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸USS Albany - speedy departure from #Gibraltar this morning.
-
-Via @dparody https://t.co/LxXWt2cSWS",en,['Gibraltar'],['https://pbs.twimg.com/media/FIVdv6EXwAQ8ofx.jpg'],TweetDeck,,,
-278,2022-01-05 11:23:27+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"HMS Ambush (wearing name board on fin) outbound from Faslane this morning.
-
-Via @MichaelJWC626 https://t.co/rhrKDtvF8v",en,,['https://pbs.twimg.com/media/FIVbYa2WYAQh_fB.jpg'],TweetDeck,,,
-279,2022-01-04 14:05:25+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"MoD Ro Ro vessel MV Anvil Point outbound from Devonport this afternoon.
-
-Via @Rockhoppas https://t.co/89K9Qwtvq0",en,,['https://pbs.twimg.com/media/FIQ22m_XEAE8r1y.jpg'],TweetDeck,,,
-280,2022-01-04 10:43:21+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@hms_mersey sails from Portsmouth this morning.
-
-Via @PortsmouthProud https://t.co/HPYKHCB9rs",en,,['https://pbs.twimg.com/ext_tw_video_thumb/1478316064949821440/pu/img/77ynnpWhdP2RXhVs.jpg'],TweetDeck,,,
-281,2022-01-04 07:17:56+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,@Pompeyblokeoxon @darrenjaundrill Kelvin Hughes SharpEye navigation radar https://t.co/wnGN0raSVw,ht,,['https://pbs.twimg.com/media/FIPZnrsX0AcR6JR.jpg'],TweetDeck,,,
-282,2022-01-03 21:08:54+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"""Warship Life at Sea” Episode 1 now on @channel5_tv @HMSNORT 
-
-#WarshipLifeAtSea #Warship
-
-@Mark_Tatts https://t.co/5wMsgDaHSW",en,"['WarshipLifeAtSea', 'Warship']",['https://pbs.twimg.com/media/FINOB3pWQAEcKBc.jpg'],TweetDeck,,,
-283,2022-01-03 13:42:42+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSSomerset alongside 1 Wharf completing LIFEX refit and @HMSPortland in 4 basin in Devonport today.
-
-Via @AmzJS13 https://t.co/5dsqOeHAgb",en,,['https://pbs.twimg.com/media/FILnkgAXoAQUb9N.jpg'],TweetDeck,,,
-284,2022-01-01 14:35:34+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMS_Echo out of dry dock and alongside in #Gibraltar for #NewYear
-
-VIa @Anthony20513324 https://t.co/AM3o9Z4hu6",en,"['Gibraltar', 'NewYear']",['https://pbs.twimg.com/media/FIBhCWWXMAcVk2y.jpg'],TweetDeck,,,
-285,2022-01-01 09:06:19+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Midnight #NewYearsEve
-
-@hmsdiamond and @HMSDragon alongside in Portsmouth 
-
-via @davebpsmedical https://t.co/oFqEGVY24k",en,['NewYearsEve'],['https://pbs.twimg.com/media/FIAVnjyXEAMDGwZ.jpg'],TweetDeck,,,
-286,2022-01-01 09:02:12+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@RFAMountsBay alongside at the Garelochead Jetty for #NewYear
-
-via @wolfie250 https://t.co/6WHKZcfNG7",en,['NewYear'],['https://pbs.twimg.com/media/FIAUswuXEAIVyBr.jpg'],TweetDeck,,,
-287,2021-12-31 18:49:39+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,".@HMSTrent alongside in #Gibraltar for #NewYear 
-
-via @Anthony20513324 https://t.co/qRjkbCL0yg",en,"['Gibraltar', 'NewYear']",['https://pbs.twimg.com/media/FH9RmJWXIAEMOV5.jpg'],TweetDeck,,,
-288,2021-12-31 16:23:30+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"🇺🇸Los Angeles class submarine USS Albany alongside in #Gibraltar for New Year.
-
-Via @Anthony20513324 https://t.co/hl4zlMrvXx",en,['Gibraltar'],['https://pbs.twimg.com/media/FH8wIFBXwAgjys1.jpg'],TweetDeck,,,
-289,2021-12-30 10:48:44+00:00,Navy Lookout,NavyLookout,Independent Royal Navy news and analysis,UK,"Fleet Ready Escort @HMS_Westminster outbound from the Clyde this morning.
-
-Via @SheilaLWeir https://t.co/KvAizfQQwA",en,,['https://pbs.twimg.com/media/FH2Z4-gX0AQXIxg.jpg'],TweetDeck,,,
+https://t.co/P2BP1fhXER https://t.co/K4jrCzGq4Q",en,,['https://pbs.twimg.com/media/FJiMI2jWQAAO6Wm.jpg'],
